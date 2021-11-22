@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8017</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6b85071-76b2-407e-b289-9054214e4440</dc:identifier>
+        <dc:title>Side Jobs</dc:title>
+        <dc:creator opf:file-as="Butcher, Jim" opf:role="aut">Jim Butcher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-26T00:26:27.871000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Fans of Butcher's long-running and bestselling urban fantasy series featuring Chicago wizard PI Harry Dresden were stunned by the concluding events of the 2010 novel Changes. They'll probably want to skip ahead to the last of this collection's 11 stories, "Aftermath," set just hours after the end of that book. With Dresden's fate uncertain, it's his longtime ally, Sgt. Karrin Murphy, who must help find a kidnapped werewolf. This entry is the collection's strongest, full of powerful emotion. The rest of the book is a mixed bag, ranging from Butcher's first attempt at short fiction--"a novice effort" that "wasn't up to par for professional publication"--to more recent tales set around and between the novels. First-timers will be lost, and this uneven volume mostly makes the case that Butcher's talent is best displayed in longer form. (Nov.) (c) &lt;br /&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;The first short story collection in the #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling series-including a brand-new Harry Dresden novella! &lt;/strong&gt;   &lt;/p&gt;&lt;p&gt;Here, together for the first time, are the shorter works of #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling author Jim Butcher-a compendium of cases that Harry and his cadre of allies managed to close in record time. The tales range from the deadly serious to the absurdly hilarious. Also included is a new, never-before-published novella that takes place after the cliff-hanger ending of the new April 2010 hardcover, &lt;em&gt;Changes&lt;/em&gt;. This is a must-have collection for every devoted Harry Dresden fan as well as a perfect introduction for readers ready to meet Chicago's only professional wizard. &lt;/p&gt;</dc:description>
+        <dc:publisher>Roc Hardcover</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451463654</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Detective</dc:subject>
+        <meta content="The Dresden Files" name="calibre:series"/>
+        <meta content="12.10" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-13T00:22:05.259000+00:00" name="calibre:timestamp"/>
+        <meta content="Side Jobs" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

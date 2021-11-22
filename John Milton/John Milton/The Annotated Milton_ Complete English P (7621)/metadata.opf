@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7621</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81584b7d-32cd-4d53-ab97-8b41cb614f62</dc:identifier>
+        <dc:title>The Annotated Milton: Complete English Poems</dc:title>
+        <dc:creator opf:file-as="Milton, John &amp; Raffel, Burton" opf:role="aut">John Milton</dc:creator>
+        <dc:creator opf:file-as="Milton, John &amp; Raffel, Burton" opf:role="aut">Burton Raffel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-10-15T07:00:00+00:00</dc:date>
+        <dc:description>Product Description
+
+ Affordable, compact, and authoritative, this one-volume edition of &lt;b&gt;The Annotated Milton&lt;/b&gt; encompasses the monumental sweep of John Milton’s poetry. Here are Milton’ s early works, including his first great poem, “On the Morning of Christ’s Nativity,” the light and lyrical “L’Allegro” and “Il Penseroso,” the masque &lt;i&gt;Comus,&lt;/i&gt; and the lushly beautiful pastoral elegy “Lycidas.” Here, too, included in their entirety, are the three epic poems considered to be among the finest works in the English language: &lt;i&gt;Paradise Lost, Paradise Regained,&lt;/i&gt; and &lt;i&gt;Samson Agonistes.&lt;br&gt;&lt;br&gt;&lt;/i&gt;Fully annotated by Burton Raffel, this distinguished edition clarifies the complex allusions of Milton’s verse and references the personal, religious, historical, and mythical influences that inspired the great blind poet of England, who ranks among the undisputed giants of world literature.
+ 
+ &lt;/div&gt;
+ &lt;h3&gt;About the Author&lt;/h3&gt;
+ &lt;div&gt;
+ Burton Raffel is a translator, poet, and scholar whose major translations include &lt;b&gt;The Canterbury Tales&lt;/b&gt;, &lt;b&gt;Beowulf&lt;/b&gt;, &lt;i&gt;Don Quijote&lt;/i&gt;, &lt;i&gt;The Red and the Black&lt;/i&gt;, and &lt;i&gt;Gargantua and Pantagruel&lt;/i&gt;. He has also annotated several Shakespeare plays for Yale University Press. He was the Distinguished Professor Emeritus of Arts and Humanities and emeritus professor of English at the University of Louisiana at Lafayette until 2003. He lives in Louisiana.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553581102</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>classics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-30T06:14:03.973000+00:00" name="calibre:timestamp"/>
+        <meta content="Annotated Milton: Complete English Poems, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;classics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

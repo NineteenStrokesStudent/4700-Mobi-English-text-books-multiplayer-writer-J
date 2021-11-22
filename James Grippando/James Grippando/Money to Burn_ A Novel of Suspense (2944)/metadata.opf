@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2944</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bca45f3c-6096-466c-9292-2c359cd5aa3b</dc:identifier>
+        <dc:title>Money to Burn: A Novel of Suspense</dc:title>
+        <dc:creator opf:file-as="Grippando, James" opf:role="aut">James Grippando</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T02:39:40.439000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+In this timely stand-alone thriller ripped from the headlines, *New York Times* bestselling author James Grippando, whom the *Wall Street Journal* calls "a writer to watch," explores a world in which the destruction of financial institutions and the people who run them can occur in a matter of hours—perhaps even minutes.   
+
+ At thirty-one, Michael Cantella is a rising star at Wall Street's premier investment bank, Saxton Silvers. Everything is going according to plan until Ivy Layton, the love of his life, vanishes on their honeymoon in the Bahamas.  
+
+ Fast-forward four years. It's the eve of his thirty-fifth birthday, and Michael is still on track: successful career, beautiful new wife, piles of money. Reveling in his good fortune, Michael logs in to his computer, enters his password, and pulls up his biggest investment account: *Zero balance*. He tries another, and another. All of them zero. Someone has wiped him out. His only clue is a new e-mail message: *Just as planned. xo xo.*  
+
+ With these three words Michael's life as he knows it is liquidated, along with his investment portfolio. Saxton Silvers is suddenly on the brink of bankruptcy, and he's the leading suspect in its ruin. Michael is left alone, framed, and facing divorce, with undercover FBI agents afoot, spyware on his computer, and mysterious e-mails from a "JBU." Embroiled in corporate espionage, he's desperate to clear his name and realizes that several signs point to his first wife, Ivy, as a key player. But what if Ivy has come back from the dead, only to visit on Michael a fate worse than death?  
+
+ With echoes of *The Firm*, James Grippando's newest thriller takes readers to the inner circle of Wall Street, illustrating the very real dangers of what Warren Buffett called "financial weapons of mass destruction."</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061556302</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-02T18:35:20.321000+00:00" name="calibre:timestamp"/>
+        <meta content="Money to Burn: A Novel of Suspense" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

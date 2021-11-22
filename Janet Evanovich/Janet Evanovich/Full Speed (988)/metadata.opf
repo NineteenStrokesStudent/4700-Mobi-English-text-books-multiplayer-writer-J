@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">988</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac0b3edb-bf4c-4670-a99d-e50b21278c55</dc:identifier>
+        <dc:title>Full Speed</dc:title>
+        <dc:creator opf:file-as="Evanovich, Janet &amp; Hughes, Charlotte" opf:role="aut">Janet Evanovich</dc:creator>
+        <dc:creator opf:file-as="Evanovich, Janet &amp; Hughes, Charlotte" opf:role="aut">Charlotte Hughes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-30T22:48:43.712000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Dear Reader,
+
+
+
+Welcome to the world of Jamie Swift and Max Holt! My good friend Charlotte Hughes and I have teamed up to create a series of books featuring these two characters and they've taken on a life of their own! These books are not set in the same world as my Stephanie Plum novels, but what they have in common is lovable, dysfunctional characters, villains you love to hate, and a cross-eyed way of looking at life. Jamie and Max have intense chemistry-even though they drive each other crazy. Max thinks Jamie is a magnet for trouble and Jamie thinks Max is the most annoyingly sexy, mysterious man she's ever met. She knows she should stay away from him. But boy, oh boy, do the sparks fly when they get together. Jamie is a newspaper owner from a small southern town. And in *Full Speed*, she's after the story of a lifetime. Max Holt is right in the middle of that story, and so Jamie tracks down the millionaire playboy, forcing him to take her on as partner. What follows is a story of a corrupt minister, a gang of mobsters on the loose, a hound dog called Fleas, a wise-cracking computer genius, and lots of love in the fast lane. Not to mention plenty of steamy action between Jamie and Max. 
+
+
+
+So have fun with *Full Speed*. We're going to sign off now and get back to creating more romantic adventures between Jamie Swift and Max Holt. Enjoy and happy reading! 
+
+
+
+Janet and Charlotte</dc:description>
+        <dc:publisher>St. Martin's Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312531560</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Full Series" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-19T22:46:09.513000+00:00" name="calibre:timestamp"/>
+        <meta content="Full Speed" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

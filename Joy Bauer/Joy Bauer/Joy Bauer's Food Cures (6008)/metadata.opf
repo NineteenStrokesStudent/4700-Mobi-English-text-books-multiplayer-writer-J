@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6008</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e3a9555-b88f-4e10-ba3d-8a3fe6202cd1</dc:identifier>
+        <dc:title>Joy Bauer's Food Cures</dc:title>
+        <dc:creator opf:file-as="Bauer, Joy &amp; Svec, Carol" opf:role="aut">Joy Bauer</dc:creator>
+        <dc:creator opf:file-as="Bauer, Joy &amp; Svec, Carol" opf:role="aut">Carol Svec</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-07T07:00:00+00:00</dc:date>
+        <dc:description>The ultimate guide to using food as medicine from the Nutrition expert for the Today Show, Joy Bauer.
+
+Nutritional healing has gone mainstream and researchers at top universities are publishing studies that show how the right foods can help prevent, manage, and sometimes entirely reverse the defining symptoms of a wide range of health issues. Whether it's unwanted pounds or high blood sugar, mood swings or digestive trouble, the cure can be what you eat every day.
+
+Now Joy Bauer, a nutrition consultant to celebrities from actors to gold-medal winning athletes, explains exactly what to eat to lower high cholesterol and blood pressure, improve skin tone, sharpen memory, sleep better, and take charge of PMS, arthritis, and more. Each chapter focuses on one of the many conditions that drive people to seek Joy's professional help and simulates a personal consultation. Readers walk away with up-to-the-minute, scientifically researched recommendations on particular foods to seek out and which ones to avoid, plus grocery lists, meal plans, recipes, and supplement recommendations presented in easy-to-follow 4-step prescriptive plans.</dc:description>
+        <dc:publisher>Rodale Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594864667</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-12T19:55:54.398000+00:00" name="calibre:timestamp"/>
+        <meta content="Joy Bauer's Food Cures" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

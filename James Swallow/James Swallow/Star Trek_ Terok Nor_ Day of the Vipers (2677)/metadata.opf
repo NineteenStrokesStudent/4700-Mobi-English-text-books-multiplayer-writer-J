@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8197e86-6850-4500-8c4e-97a1dfffb91e</dc:identifier>
+        <dc:title>Star Trek: Terok Nor: Day of the Vipers</dc:title>
+        <dc:creator opf:file-as="Swallow, James" opf:role="aut">James Swallow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-25T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Before the Dominion War and the decimation of Cardassia...before the coming of the Emissary and the discovery of the wormhole...before space station Terok Nor became Deep Space 9™...there was the Occupation: the military takeover of an alien planet and the violent insurgency that fought against it. Now that fifty-year tale of warring ideologies, terrorism, greed, secret intelligence, moral compromises, and embattled faiths is at last given its due in the three-book saga of Star Trek's Lost Era...A seemingly benign visitation to the bountiful world of Bajor from the resource-poor Cardassian Union is viewed with cautious optimism by some, trepidation by others, and a calculating gleam by unscrupulous opportunists. What begins as a gesture of compassion soon becomes something very different. Seen through the eyes of participants on both sides -- including those of a young officer named Skrain Dukat -- the personal, political, and religious tensions between the Bajorans and the Cardassians quickly spiral out of control, irrevocably shaping the futures of both worlds in an emotionally charged and unforgettable tale of treachery, tragedy, and hope.</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416550938</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction:Star Trek</dc:subject>
+        <meta content="Star Trek" name="calibre:series"/>
+        <meta content="2008.04" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-28T10:20:08.802000+00:00" name="calibre:timestamp"/>
+        <meta content="Star Trek: Terok Nor: Day of the Vipers" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction:Star Trek&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21ed2b9d-c72f-40dd-ac97-1b7f245dcfdf</dc:identifier>
+        <dc:title>Harry Potter and the Order of the Phoenix</dc:title>
+        <dc:creator opf:file-as="Rowling, J. K." opf:role="aut">J. K. Rowling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-14T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+*I say to you all, once again--in the light of  
+
+Lord Voldemort’s return, we are only as strong  
+
+as we are united, as weak as we are divided.  
+
+Lord Voldemort’s gift for spreading discord and  
+
+enmity is very great. We can fight it only by showing  
+
+an equally strong bond of friendship and trust.*    
+
+So spoke Albus Dumbledore at the end of Harry Potter’s fourth  year at Hogwarts. But as Harry enters his fifth year at wizard school,  it seems those bonds have never been more sorely tested. Lord  Voldemort’s rise has opened a rift in the wizarding world between  those who believe the truth about his return, and those who prefer to  believe it’s all madness and lies--just more trouble from  Harry Potter.    
+
+Add to this a host of other worries for Harry…
+
+   • A Defense Against the Dark Arts teacher with a personality like poisoned honey
+
+   • A venomous, disgruntled house-elf
+
+   • Ron as keeper of the Gryffindor Quidditch team
+
+   • And of course, what every student dreads: end-of-term Ordinary Wizarding Level exams    
+
+…and you’d know what Harry faces during the day. But at  night it’s even worse, because then he dreams of a single door in a  silent corridor. And this door is somehow more terrifying than every  other nightmare combined.    
+
+In the richest installment yet of J. K. Rowling’s seven-part  story, Harry Potter confronts the unreliability of the very government  of the magical world, and the impotence of the authorities at  Hogwarts.    
+
+Despite this (or perhaps because of it) Harry finds depth and strength  in his friends, beyond what even he knew; boundless loyalty and  unbearable sacrifice.    
+
+Though thick runs the plot (as well as the spine), readers will  race through these pages, and leave Hogwarts, like Harry, wishing only  for the next train back.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Children's Books</dc:subject>
+        <meta content="Harry Potter" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-05-15T06:56:40+00:00" name="calibre:timestamp"/>
+        <meta content="Harry Potter and the Order of the Phoenix" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Children's Books&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

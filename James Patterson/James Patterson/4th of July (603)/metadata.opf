@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">603</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1040d22a-cc0c-404b-a4ab-d74c6c0aea26</dc:identifier>
+        <dc:title>4th of July</dc:title>
+        <dc:creator opf:file-as="Patterson, James &amp; Paetro, Maxine" opf:role="aut">James Patterson</dc:creator>
+        <dc:creator opf:file-as="Patterson, James &amp; Paetro, Maxine" opf:role="aut">Maxine Paetro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-01T06:54:34.858000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+A young girl is killed in the crossfire after a routine arrest goes terribly wrong, and Lt. Lindsay Boxer has to defend herself against a charge of police brutality. In a landmark trial that transfixes the nation, Lindsay fights to save her career and her sanity.  
+
+     While awaiting trial, Lindsay escapes to the tranquility of the beautiful town of Half Moon Bay.  But the peaceful community there is reeling from a string of unspeakable murders.  Working with her friends in the Women's Murder Club, Lindsay finds a link between these killings and a case she worked on years before - an unsolved murder that has haunted her ever since.      As summer comes into full swing, Lindsay battles for her life on two fronts:  before a judge and jury as her trial comes to a climax and facing unknown adversaries who will do anything to keep her from the truth about the killings.  It all comes to a head before the big annual 4th of July celebration on the waterfront at Half Moon Bay.  
+
+
+
+"Patterson knows where our deepest fears are buried. There's no stopping his imagination."
+
+ -New York Times Book Review 
+
+
+
+"Patterson's skill at building suspense is enviable." -Kansas City Star
+
+
+
+"When it comes to constructing a harrowing plot, author James Patterson can turn a screw all right."
+
+-New York Daily News</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780446179669</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Women's Murder Club" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-08T19:23:17.748000+00:00" name="calibre:timestamp"/>
+        <meta content="4th of July" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

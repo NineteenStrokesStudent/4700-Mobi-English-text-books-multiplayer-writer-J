@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6578</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4a75207-a1ae-4eb6-b46c-3a08b8eb52a1</dc:identifier>
+        <dc:title>War by other means: an insider's account of the war on terror</dc:title>
+        <dc:creator opf:file-as="Yoo, John" opf:role="aut">John Yoo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+John Yoo, the key legal architect of the Bush administration’s response to 9/11, delivers a fascinating insider account of the War on Terror. While America reeled from the cataclysmic events of September 11, 2001, Yoo and a skeletal staff of the Office of Legal Counsel found themselves on the phone with the White House. In a series of memos, Yoo offered his legal opinions on the president’s authority to respond, and in the process had an almost unmatched impact on America's fight against terrorism. His analysis led to many of the Bush administration’s most controversial policies, including detention at Guantanamo Bay, coercive interrogation, military trials for terrorists, preemptive attacks, and the National Security Agency’s wiretapping program. In fascinating detail, Yoo takes us inside the corridors of power and examines specific cases, from John Walker Lindh and Jose Padilla to an American al-Qaeda leader assassinated by a CIA pilotless drone in the deserts of Yemen. In a midterm election year, when the controversies over the president’s handling of the War on Terror are sure to wage more forcefully than ever before, John Yoo’s War by Other Means is set to become one of the fall’s most talked about books.</dc:description>
+        <dc:publisher>Grove Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780871139450</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Politics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T05:52:03.982000+00:00" name="calibre:timestamp"/>
+        <meta content="War by other means: an insider's account of the war on terror" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Politics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2406</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">900f503e-53b0-4ff8-87f3-747d4f893bd6</dc:identifier>
+        <dc:title>Chocolate Chip Cookie Murder</dc:title>
+        <dc:creator opf:file-as="Fluke, Joanne" opf:role="aut">Joanne Fluke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-10T22:26:21.583000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Discover the delicious mystery that started it all!    
+
+     
+
+No one cooks up a delectable, suspense-filled mystery quite like Hannah Swensen, Joanne Fluke’s dessert-baking, red-haired heroine whose gingersnaps are as tart as her comebacks, and whose penchant for solving crimes—one delicious clue at a time—has made her a bestselling favorite. And it all began on these pages, with a bakery, a murder, and some suddenly scandalous chocolate-chip crunchies. Featuring a bonus short story and brand new, mouthwatering recipes, this limited edition of the very first Hannah Swensen mystery is sure to have readers coming back for seconds…    
+
+     
+
+Hannah Swenson already has her hands full trying to dodge her mother’s attempts to marry her off while running The Cookie Jar, Lake Eden, Minnesota’s most popular bakery. But once Ron LaSalle, the beloved delivery man from the Cozy Cow Dairy, is found murdered behind her bakery with Hannah’s famous Chocolate Chip Crunchies scattered around him, her life just can’t get any worse. Determined not to let her cookies get a bad reputation, she sets out to track down a killer.     
+
+     
+
+Who would have the sheer audacity—and the motive—to kill the most punctual delivery man Hannah ever had? Topping the list is the high school football coach. What exactly was his wife doing, making the rounds with the milkman? Could Max Turner, owner of Cozy Cow Dairy, have had a secret he didn’t want to share with his top employee? The more Hannah snoops, the more suspects turn up. Why has Lake Eden’s most prominent prodigal son, Benton Woodley, just resurfaced? And what about the mysterious Mr. Harris who seemed interested in buying the property next to the dairy, but then disappeared? This is one murder that’s starting to leave a very bad taste in Hannah’s mouth. And if she doesn’t watch her back, Hannah’s sweet life may get burned to a crisp.    
+
+     
+
+Filled with a healthy sprinkling of humor and a delightful assortment of nuts, CHOCOLATE CHIP COOKIE MURDER serves up a great new mystery series and introduces a delicious, down-home sleuth that mystery readers will surely savor for years to come.</dc:description>
+        <dc:publisher>Kensington Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780758225306</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Hannah Swensen Mystery" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-21T22:23:51.343000+00:00" name="calibre:timestamp"/>
+        <meta content="Chocolate Chip Cookie Murder" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

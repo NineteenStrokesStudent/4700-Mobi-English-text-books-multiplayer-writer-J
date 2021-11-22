@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1687</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">505428fa-0939-4f4e-9316-11cb34766350</dc:identifier>
+        <dc:title>Think of a Number</dc:title>
+        <dc:creator opf:file-as="Verdon, John" opf:role="aut">John Verdon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T05:51:00.890000+00:00</dc:date>
+        <dc:description>SUMMARY:
+An extraordinary fiction debut, Think of a Number is an exquisitely plotted novel of suspense that grows relentlessly darker and more frightening as its pace accelerates, forcing its deeply troubled characters to moments of startling self-revelation. Arriving in the mail over a period of weeks are taunting letters that end with a simple declaration, “Think of any number…picture it…now see how well I know your secrets.”  Amazingly, those who comply find that the letter writer has predicted their random choice exactly.  For Dave Gurney, just retired as the NYPD’s top homicide investigator and forging a new life with his wife, Madeleine, in upstate New York, the letters are oddities that begin as a diverting puzzle but quickly ignite a massive serial murder investigation. What police are confronted with is a completely baffling killer, one who is fond of rhymes filled with threats and warnings, whose attention to detail is unprecedented, and who has an uncanny knack for disappearing into thin air.  Even more disturbing, the scale of his ambition seems to widen as events unfold. Brought in as an investigative consultant, Dave Gurney soon accomplishes deductive breakthroughs that leave local police in awe.  Yet, even as he matches wits with his seemingly clairvoyant opponent, Gurney’s tragedy-marred past rises up to haunt him, his marriage approaches a dangerous precipice, and finally, a dark, cold fear builds that he’s met an adversary who can’t be stopped. In the end, fighting to keep his bearings amid a whirlwind of menace and destruction, Gurney sees the truth of what he’s become – what we all become when guilty memories fester – and how his wife Madeleine’s clear-eyed advice may be the only answer that makes sense. A work that defies easy labels -- at once a propulsive masterpiece of suspense and an absorbing immersion in the lives of characters so real we seem to hear their heartbeats – Think of a Number is a novel you’ll not soon forget.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307588920</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-06T05:50:06.960000+00:00" name="calibre:timestamp"/>
+        <meta content="Think of a Number" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;, &quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

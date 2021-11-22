@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7717</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68e67f66-a8b3-49f8-98c6-ee9bdefbf113</dc:identifier>
+        <dc:title>The Manual of Detection: A Novel</dc:title>
+        <dc:creator opf:file-as="Berry, Jedediah" opf:role="aut">Jedediah Berry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-19T17:45:35.178000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Set in an unnamed city, Berry's ambitious debut reverberates with echoes of Kafka and Paul Auster. Charles Unwin, a clerk who's toiled for years for the Pinkerton-like Agency, has meticulously catalogued the legendary cases of sleuth Travis Sivart. When Sivart disappears, Unwin, who's inexplicably promoted to the rank of detective, goes in search of him. While exploring the upper reaches of the Agency's labyrinthine headquarters, the paper pusher stumbles on a corpse. Aided by a narcoleptic assistant, he enters a surreal landscape where all the alarm clocks have been stolen. In the course of his inquiries, Unwin is shattered to realize that some of Sivart's greatest triumphs were empty ones, that his hero didn't always come up with the correct solution. Even if the intriguing conceit doesn't fully work, this cerebral novel, with its sly winks at traditional whodunits and inspired portrait of the bureaucratic and paranoid Agency, will appeal to mystery readers and nongenre fans alike. &lt;em&gt;(Feb.)&lt;/em&gt; &lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;
+
+&lt;h3&gt;From&lt;/h3&gt;
+&lt;p&gt;The comparisons used by critics in describing The Manual of Detection—Borges! Chesterton! Bradbury! Kafka! Lynch! Gilliam!—may seem overblown. But this list of literary (and cinematic) heavy hitters may not be hyperbolic praise so much as the only means available to explain how a book that initially seems to be a private eye novel can also be a work of absurdist art, “a surreal transmogrification of a genre” (Wall Street Journal). The critics might not have been able to categorize it, but they were also unable to put it down. However, as more than one reviewer pointed out, this may not be the best book for those who like their gumshoes straight, no chaser.&lt;br /&gt;
+Copyright 2009 Bookmarks Publishing LLC 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781101019962</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:34:40.188000+00:00" name="calibre:timestamp"/>
+        <meta content="Manual of Detection: A Novel, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">986</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e743c94-3860-4b71-a574-3354d1f3d2f1</dc:identifier>
+        <dc:title>Full Bloom</dc:title>
+        <dc:creator opf:file-as="Evanovich, Janet &amp; Hughes, Charlotte" opf:role="aut">Janet Evanovich</dc:creator>
+        <dc:creator opf:file-as="Evanovich, Janet &amp; Hughes, Charlotte" opf:role="aut">Charlotte Hughes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T22:49:09.797000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Dear Reader, The temperature's on "sizzle" again in Beaumont, South Carolina, where peach trees are in season and ripe for the picking. So is its newest entrepreneur, Annie Fortenberry, who has inherited her grandmother's B&amp;B (and its eccentric handyman Erdle Thorney). According to a local psychic she also inherited a spirit from its glory days as a brothel-not the kind of publicity the Peach Tree Bed &amp; Breakfast needs if it's hosting millionaire Max Holt's upcoming wedding! If rumors of a naughty, prank-playing ghost aren't stressful enough, a mysterious man has arrived with an eye on Annie and her master suite. Wes Bridges is all leather and denim, sporting a two-day beard, straddling a Harley, and sending the B&amp;B's testosterone level through the roof. Annie's cool demeanor may be dropping as fast as Wes's jeans, but leave it to her missing ex-husband to dampen the passion! Turns out someone has done him in, and all evidence points to Annie! Wrapped up in a murder plot, Annie must find the killer, save her own neck, and get back to where she was-wrapped up in Wes's strong loving arms...We guarantee that you're going to have as much fun reading Full Bloom as we had writing it! (Even if we were surprised by the ending!) And you won't want to miss the hair-raising shenanigans when Fleas, the hound dog, meets the most cantankerous, snooty, bad-tempered, twenty-two pound orange cat....Janet and Charlotte</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312531584</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Full Series" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-19T22:46:44.248000+00:00" name="calibre:timestamp"/>
+        <meta content="Full Bloom" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

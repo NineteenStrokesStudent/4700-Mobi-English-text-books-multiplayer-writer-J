@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6450</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9c47e78-fe59-4a63-9cca-36ba34a5eb95</dc:identifier>
+        <dc:title>The witch queen</dc:title>
+        <dc:creator opf:file-as="Siegel, Jan" opf:role="aut">Jan Siegel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-07-30T10:13:29.866000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**Jan Siegel has created one of the most compelling fantasy series in recent memory. What began with *Prospero’s Children* and continued with *The Dragon Charmer* now comes to a dazzling conclusion with *of The Witch Queen*. Magnetically gifted Fern Capel has at last come into her own with her magical powers—and just in time. . . .**It is a fearsome world of witches, dragons, and goblins, where a gnarled tree bears fruit of human heads. Fern Capel believes she has left it all behind. But now that world is seeping into modern day England: The witch-queen Morgus, who had imprisoned Fern in the ghostly Otherworld, has returned from countless years of exile beneath the gruesome Eternal Tree. Stalking the twenty-first century in her Prada stilettos, Morgus has the mind-set of the Dark Ages and vows to rule the ancient kingdom of Logrez, now modern Britain.Most of all, Morgus wants revenge on Fern Capel. Rejuvenated through sorcery, neither charm nor weapon can harm the witch-queen. She has planted a cutting from the Eternal Tree in the real world and awaits with impatience the ripening of its terrifying bounty. When Fern learns that her enemy cannot be defeated through conventional means, she turns for help to her best friend, Gaynor, her brother Will, her old mentor, Ragginbone, and Maldo, the goblin-queen. Together, they track Morgus through London’s high-society parties and seedy, sinister contacts, until they finally draw a magic circle in a Soho basement. Fern Capel knows that survival is not enough: This time she must win. But she does not yet understand how high a price she will have to pay.In this thrilling final novel of her acclaimed trilogy, Jan Siegel takes advantage of her greatest strengths as a writer—weaving magic into a modern-day world and bringing vivid life to a host of characters that readers will not soon forget.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345439031</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Fern Capel" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-26T10:12:14.511000+00:00" name="calibre:timestamp"/>
+        <meta content="witch queen, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5786</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43e494b9-18ba-4a9d-821f-32e88faec2ae</dc:identifier>
+        <dc:title>The Way of the Guilty: A Hope Street Church Mystery</dc:title>
+        <dc:creator opf:file-as="Stanley, Jennifer" opf:role="aut">Jennifer Stanley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T23:53:09.388000+00:00</dc:date>
+        <dc:description>SUMMARY:
+At Hope Street Church, you always know who your friends are. But knowing who your enemies are is a whole 'nother story...Cooper Lee has a new outlook on life, thanks to her friends at Hope Street Church. Spending time with the Sunrise Bible Study Group nourishes her mind and soul. But home is where the heart is--along with Mrs. Lee's baked treats--and Cooper is indeed happy to have such a great family to come home to when not spending time with Nathan, a friend from the group who just might be (fingers crossed) The One. So when her sister, Ashley, is implicated in a gruesome murder, Cooper snaps into action. Along with Nathan and her friends from Hope Street, Cooper vows to solve this unholy mess--with a wing, a prayer, and a small dose of snooping..."THIS ISN'T YOUR GRANDMA'S SUNDAY SCHOOL CLASS. Jennifer Stanley's engaging new series makes your attendance at Hope Street Church mandatory."--Emilie Richards, author of the "Ministry is Murder" mystery series"Stanley's faith-based crime detection has plenty of charming appeal."--"Publishers Weekly""A DELIGHTFUL SURPRISE, a lovely, never-preachy story of friends."--Donna Andrews, award-winning author of "Swan for the Money""INSPIRED...Stanley never preaches to her readers but lets deeds, not words, accomplish their goal."--"Richmond Times-Dispatch"</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312376840</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Hope Street Church Mysteries" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T23:51:04.477000+00:00" name="calibre:timestamp"/>
+        <meta content="Way of the Guilty: A Hope Street Church Mystery, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

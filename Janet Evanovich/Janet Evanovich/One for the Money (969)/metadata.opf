@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">969</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3097c87-6165-4c8a-ae13-fd01f2bb1928</dc:identifier>
+        <dc:title>One for the Money</dc:title>
+        <dc:creator opf:file-as="Evanovich, Janet" opf:role="aut">Janet Evanovich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-06-15T06:53:21.653000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Watch out, world. Here comes Stephanie Plum, a bounty hunter with attitude. In Stephanie's opinion, toxic waste, rabid drivers, armed schizophrenics, and August heat, humidity, and hydrocarbons are all part of the great adventure of living in Jersey.  She's a product of the "burg," a blue-collar pocket of Trenton where houses are attached and narrow, cars are American, windows are clean, and (God forbid you should be late) dinner is served at six.  Now Stephanie's all grown up and out on her own, living five miles from Mom and Dad's, doing her best to sever the world's longest umbilical cord. Her mother is a meddler, and her grandmother is a few cans short of a case.  Out of work and out of money, with her Miata repossessed and her refrigerator empty, Stephanie blackmails her bail bondsman cousin, Vinnie, into giving her a try as an apprehension agent. Stephanie knows zilch about the job requirements, but she figures her new pal, fearless bounty hunter Ranger, can teach her what it takes to catch a crook.  Her first assignment: nail Joe Morelli, a former vice cop on the run from a charge of murder one. Morelli is also the irresistible macho pig who took Stephanie's virginity at age sixteen and then wrote the details on the bathroom wall of Mario's Sub Shop. There's still powerful chemistry between these two, so the chase should be interesting.  It could also be extremely dangerous, especially when Stephanie encounters a heavyweight title contender who likes to play rough. Benito Ramirez is known for his brutality to women. At the very least, his obsession with Stephanie complicates her manhunt and brings terror and uncertainty into her life. At worst, it could lead to murder.  Witty, fresh, and full of surprises, "One for the Money" is among the most eagerly awaited crime novels of the season.</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780684867311</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Stephanie Plum" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-23T15:54:10.460000+00:00" name="calibre:timestamp"/>
+        <meta content="One for the Money" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

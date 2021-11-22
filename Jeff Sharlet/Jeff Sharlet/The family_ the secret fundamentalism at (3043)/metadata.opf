@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3043</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4291280d-347f-4a9e-8101-ce22cf169276</dc:identifier>
+        <dc:title>The family: the secret fundamentalism at the heart of American power</dc:title>
+        <dc:creator opf:file-as="Sharlet, Jeff" opf:role="aut">Jeff Sharlet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+A journalist's penetrating look at the untold story of christian fundamentalism's most elite organization, a self-described invisible network dedicated to a religion of power for the powerful   
+
+ They are the Family—fundamentalism's avant-garde, waging spiritual war in the halls of American power and around the globe. They consider themselves the new chosen—congressmen, generals, and foreign dictators who meet in confidential cells, to pray and plan for a "leadership led by God," to be won not by force but through "quiet diplomacy." Their base is a leafy estate overlooking the Potomac in Arlington, Virginia, and Jeff Sharlet is the only journalist to have reported from inside its walls.  
+
+ *The Family* is about the other half of American fundamentalist power—not its angry masses, but its sophisticated elites. Sharlet follows the story back to Abraham Vereide, an immigrant preacher who in 1935 organized a small group of businessmen sympathetic to European fascism, fusing the far right with his own polite but authoritarian faith. From that core, Vereide built an international network of fundamentalists who spoke the language of establishment power, a "family" that thrives to this day. In public, they host Prayer Breakfasts; in private, they preach a gospel of "biblical capitalism," military might, and American empire. Citing Hitler, Lenin, and Mao as leadership models, the Family's current leader, Doug Coe, declares, "We work with power where we can, build new power where we can't."  
+
+ Sharlet's discoveries dramatically challenge conventional wisdom about American fundamentalism, revealing its crucial role in the unraveling of the New Deal, the waging of the cold war, and the no-holds-barred economics of globalization. The question Sharlet believes we must ask is not "What do fundamentalists want?" but "What have they already done?"  
+
+ Part history, part investigative journalism, *The Family* is a compelling account of how fundamentalism came to be interwoven with American power, a story that stretches from the religious revivals that have shaken this nation from its beginning to fundamentalism's new frontiers. No other book about the right has exposed the Family or revealed its far-reaching impact on democracy, and no future reckoning of American fundamentalism will be able to ignore it.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060559793</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Religon</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-16T22:14:13.150000+00:00" name="calibre:timestamp"/>
+        <meta content="family: the secret fundamentalism at the heart of American power, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Religon&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

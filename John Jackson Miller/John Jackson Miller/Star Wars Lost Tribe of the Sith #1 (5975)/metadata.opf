@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5975</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac86fac7-5875-4ef9-a973-4b79612f8c06</dc:identifier>
+        <dc:title>Star Wars Lost Tribe of the Sith #1</dc:title>
+        <dc:creator opf:file-as="Miller, Jackson John" opf:role="aut">John Jackson Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-17T07:00:00+00:00</dc:date>
+        <dc:description>Don’t miss STAR WARS: LOST TRIBE OF THE SITH: PRECIPICE a FREE original e-book short story, the first in a series that tell the untold story of the FATE OF THE JEDI's forgotten Sith castaways, their battle to survive, and their quest to re-conquer the galaxy! PRECIPICE includes an exclusive excerpt from STAR WARS: FATE OF THE JEDI: OMEN (Del Rey Hardcover, available June 23rd) and offers a unique look into the backstory of events that will begin to unfold in OMEN. SURVIVAL—NOT SURRENDER For the ruthless Sith Order, failure is not an option. It is an offense punishable by death—and a fate to which Commander Yaru Korsin will not succumb. But on a crucial run to deliver troops and precious crystals to a combat hotspot in the Sith’s war against the Republic, Korsin and the crew of the mining ship Omen are ambushed by a Jedi starfighter. And when the Sith craft crash-lands, torn and crippled, on a desolate alien planet, the hard-bitten captain finds himself at odds with desperate survivors on the brink of mutiny—and his own vengeful half brother, who’s bent on seizing command. No matter the cost, Korsin vows that it will not be his blood and bones left behind on this unknown world. For the way of the Sith leaves little room for compromise—and none for mercy.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-17T11:17:39.603000+00:00" name="calibre:timestamp"/>
+        <meta content="Star Wars Lost Tribe of the Sith #1" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

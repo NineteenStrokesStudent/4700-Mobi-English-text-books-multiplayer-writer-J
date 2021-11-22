@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2510</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29d4e623-dc3d-416f-891d-57946346b80d</dc:identifier>
+        <dc:title>I'm Not Hanging Noodles on Your Ears and Other Intriguing Idioms from Around the World</dc:title>
+        <dc:creator opf:file-as="Bhalla, Jag" opf:role="aut">Jag Bhalla</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-16T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+"I’m not hanging noodles from your ear." In Moscow, this curious, engagingly colorful assertion is common parlance, but unless you’re Russian your reaction is probably "Say what?" The same idea in English is equally odd: "I’m not pulling your leg." Both mean: Believe me.As author Jag Bhalla demonstrates, these amusing, often hilarious phrases provide a unique perspective on how different cultures perceive and describe the world. Organized by theme—food, love, romance, and many more—they embody cultural traditions and attitudes, capture linguistic nuance, and shed fascinating light on "the whole ball of wax." For example, when English-speakers are hard at work, we’re "nose to the grindstone," but industrious Chinese toil "with liver and brains spilled on the ground" and busy Indians have "no time to die."If you’re already fluent in 10 languages, you probably won’t need this book, but you’ll "get a kick out of it" anyhow; for the rest of us, it’s a must. Either way, this surprising, often thought-provoking little tome is gift-friendly in appearance, a perfect impulse buy for word lovers, travelers, and anyone else who enjoys looking at life in a riotous, unusual way. And we’re not hanging noodles from your ear.</dc:description>
+        <dc:publisher>National Geographic Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781426204586</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Non-fiction:Humor</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-27T06:35:05.946000+00:00" name="calibre:timestamp"/>
+        <meta content="I'm Not Hanging Noodles on Your Ears and Other Intriguing Idioms from Around the World" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Non-fiction:Humor&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81842297-8acd-4a03-9730-1f036ef34edb</dc:identifier>
+        <dc:title>Rose in a Storm</dc:title>
+        <dc:creator opf:file-as="Katz, Jon" opf:role="aut">Jon Katz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-05T03:59:40.042000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From&lt;/h3&gt;
+&lt;p&gt;Katz, best-selling author of the anecdotal Bedlam Farm books, returns to his fiction roots with this gently appealing tale of a sheepdog named Rose. Fully immersing himself inside the mind and the soul of his furry protagonist, he conjures up a believably canine view of the joys and sorrows of life on a small farm. Spinning the narrative from Rose’s point of view, he paints a portrait of a close-knit community, where animals and humans rely on one another for comfort and protection. With her master injured and a ferocious storm swirling around at the height of lambing season, it is up to Rose to call upon all her instinctive resources to battle the elements of nature in order to save the lives of her sheep and rescue her farmer. Heartwarming fodder for the pet set. --Margaret Flanagan 
+&lt;/p&gt;
+
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;From &lt;em&gt;New York Times bestselling&lt;/em&gt; author Jon Katz comes a moving and powerful novel, the first one inspired by life on his celebrated Bedlam Farm—and perceptively told from the point of view of Rose, a dedicated working dog.  
+&lt;/p&gt;
+&lt;p&gt;Rose is determined and focused, keeping the sheep out of danger and protecting the other creatures on the farm she calls home. But of all those she’s looked after since coming to the farm as a puppy, it is Sam, the farmer, whom she watches most carefully.   
+&lt;/p&gt;
+&lt;p&gt;Awoken one cold midwinter night during lambing season, Rose and Sam struggle into the snowy dark to do their work. The ever observant Rose has seen a change in her master of late, ever since Sam’s wife disappeared one day. She senses something else in the air as well: A storm is coming, but not like any of the ones she’s seen over the years. This storm feels different, bigger, more foreboding.   
+&lt;/p&gt;
+&lt;p&gt;When an epic blizzard hits the region, it will take all of Rose’s resolve, resourcefulness, and courage to help Sam save the farm and the creatures who live there.  
+&lt;/p&gt;
+&lt;p&gt;Jon Katz consulted with animal behavior scientists to create his unique and convincing vision of the world as seen through the eyes of a dog. Poignant, thrilling, and beautifully wrought, Rose in a Storm is a wonderfully original and powerful tale from a gifted storyteller. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345502650</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Dogs</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-13T02:07:12.626000+00:00" name="calibre:timestamp"/>
+        <meta content="Rose in a Storm" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Dogs&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

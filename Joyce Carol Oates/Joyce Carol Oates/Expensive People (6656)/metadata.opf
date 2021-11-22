@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6656</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5084750-3cc4-4327-862c-d4933dec3346</dc:identifier>
+        <dc:title>Expensive People</dc:title>
+        <dc:creator opf:file-as="Oates, Joyce Carol &amp; Showalter, Elaine" opf:role="aut">Joyce Carol Oates</dc:creator>
+        <dc:creator opf:file-as="Oates, Joyce Carol &amp; Showalter, Elaine" opf:role="aut">Elaine Showalter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-12T10:03:32.394000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Joyce Carol Oates’s Wonderland Quartet comprises four remarkable novels that explore social class in America and the inner lives of young Americans. In Expensive People, Oates takes a provocative and suspenseful look at the roiling secrets of America’s affluent suburbs. Set in the late 1960s, this first-person confession is narrated by Richard Everett, a precocious and obese boy who sees himself as a minor character in the alarming drama unfolding around him. Fascinated by yet alienated from his attractive, self-absorbed parents and the privileged world they inhabit, Richard incisively analyzes his own mismanaged childhood, his pretentious private schooling, his “successful-executive” father, and his elusive mother. In an act of defiance and desperation, eleven-year-old Richard strikes out in a way that presages the violence of ever-younger Americans in the turbulent decades to come.A National Book Award finalist, *Expensive People* is a stunning combination of social satire and gothic horror. “You cannot put this novel away after you have opened it,” said *The Detroit News*. “This is that kind of book–hypnotic, fascinating, and electrifying.”*Expensive People *is the second novel in the Wonderland Quartet. The books that complete this acclaimed series, A* Garden of Earthly Delights*, them, and *Wonderland*, are also available from the Modern Library.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780812976540</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T10:02:25.477000+00:00" name="calibre:timestamp"/>
+        <meta content="Expensive People" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

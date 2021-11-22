@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1116</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3ce7db4-5ca7-484e-8312-b53c163d657f</dc:identifier>
+        <dc:title>And Another Thing: The World According to Clarkson Volume Two</dc:title>
+        <dc:creator opf:file-as="Clarkson, Jeremy" opf:role="aut">Jeremy Clarkson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-15T16:41:07.914000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Jeremy Clarkson finds the world a perplexing place. So much so, in fact, that he wrote a book about it. But despite the appearance of the bestselling The World According To Clarkson, things don t seem to have changed much. And so Jeremy s having another go. In And Another Thing, our exasperated hero discovers that: bull;He inadvertently dropped a bomb on North Carolina bull;We re all going to explode at the age of 62 bull;Russians look bad in Speedos. But not as bad as Brits bull;No one should have to worry about being Bill Oddie s long lost sister bull;Cooking a Sunday Roast is one thing. Gravy is quite another bull;He should probably be nicer about David BeckhamBut while these things play on his mind, the world remains Jeremy s favourite place to be. On the whole, it s brilliant. It s just the idiots, meddlers and do-gooders who spoil it for the rest of us. Laugh-out-loud funny and as straight-talking as ever, Clarkson bursts their pointless little bubble, while celebrating the special things that we should hold dear.</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780718150075</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Non-fiction:Humor</dc:subject>
+        <meta content="World According to Clarkson" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-06T01:27:59.838000+00:00" name="calibre:timestamp"/>
+        <meta content="And Another Thing: The World According to Clarkson Volume Two" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Non-fiction:Humor&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

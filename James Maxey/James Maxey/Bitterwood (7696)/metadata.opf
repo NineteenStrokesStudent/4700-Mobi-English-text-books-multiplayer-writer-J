@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7696</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02761f22-bf85-4fb4-a879-567eed5935a5</dc:identifier>
+        <dc:title>Bitterwood</dc:title>
+        <dc:creator opf:file-as="Maxey, James" opf:role="aut">James Maxey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-26T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+ 
+ &lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+ &lt;div&gt;
+ &lt;i&gt;Starred Review.&lt;/i&gt; In the distant future—year 1070 of the Dragon Age, to be exact—Earth has been commandeered by dragons, who subject their human inferiors to lives of misery and squalor, either as slaves or pets. Human Bant Bitterwood, consumed with thoughts of vengeance against the dragons he believes murdered his family, goes on a dragon-killing spree that makes him a folk hero among the oppressed human populace. When Bitterwood slays the dragons' crown prince, Bodiel, their king vows to exterminate humankind—the only way he can be certain of victory over Bitterwood. To that end, the king enlists his murderous brother Blasphiel to build a city that will serve as humanity's abattoir. Maxey's world is stunningly imaginative, a landscape both familiar and alien, and packed with thoughtful treats for readers. Skillfully examining themes of faith, martyrdom and heroism, Maxey maintains an unflagging believability even while borrowing some of the most generic elements from science fiction and fantasy. The dragons are wonderfully written, as is the tormented hero; it is almost a shame that the story is so self-contained, as many readers will pine for a whole series of Dragon Age titles. &lt;i&gt;(July)&lt;/i&gt; &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.
+ 
+ &lt;/div&gt;
+ &lt;h3&gt;Product Description&lt;/h3&gt;
+ &lt;div&gt;
+ Bitterwood has spent the past twenty years hunting down dragons, one at a time. But he is getting old and the hate that he has carried in his heart since a group of dragon-soldiers killed his family is beginning to fade. When he kills the royal prince dragon, the king decides the only retribution is genocide of the human race. Bitterwood is forced to enter the Free City, the grand trap designed to eradicate mankind, with thousands of others. Can he lead from within, or can a select few dragons unite to stop the king's madness from becoming reality. Full of rich characters and drama, this is an amazingly astute vision of our own culture by way of a feudal kingdom where dragons rule, and humans are used as workers or pets.
+ 
+ &lt;/div&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Solaris</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781844164875</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="The Dragon Age" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-31T16:27:00.489000+00:00" name="calibre:timestamp"/>
+        <meta content="Bitterwood" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5982</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16ec4b6a-42ba-41a3-b8bd-9209257198aa</dc:identifier>
+        <dc:title>Rain Gods</dc:title>
+        <dc:creator opf:file-as="Burke, James Lee" opf:role="aut">James Lee Burke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-15T11:21:16.626000+00:00</dc:date>
+        <dc:description>SUMMARY:
+When Hackberry Holland became sheriff of a tiny Texas town near the Mexican border, he'd hoped to leave certain things behind: his checkered reputation, his haunted dreams, and his obsessive memories of the good life with his late wife, Rie. But the discovery of the bodies of nine illegal aliens, machine-gunned to death and buried in a shallow grave behind a church, soon makes it clear that he won't escape so easily. As Hack and Deputy Sheriff Pam Tibbs attempt to untangle the threads of this complex and grisly case, a damaged young Iraq veteran, Pete Flores, and his girlfriend, Vikki Gaddis, are running for their lives, hoping to outwit the bloodthirsty criminals who want to kill Pete for his involvement in the murders. The only trouble is, Pete doesn't know who he's running from: drunk and terrified, he fled the scene of the crime when the shooting began. And there's a long list of people who want Pete and Vikki dead: crime boss Hugo Cistranos, who hired Pete for the operation; Nick Dolan, a strip club owner and small-time gangster with revenge on his mind; and a mysterious God-fearing serial-killer-for-hire known as Preacher Jack Collins, with enigmatic motives of his own. With the FBI, Immigration and Customs Enforcement, and a host of cold-blooded killers on Pete and Vikki's trail, it's up to Sheriff Holland to find them first and figure out who's behind the mass murder before anyone else ends up dead. In this thrilling and intricate work, James Lee Burke has once again proven himself a master storyteller and a perceptive chronicler of the darkest corners of the human heart.</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781439163580</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Hackberry Holland" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-17T11:18:00.838000+00:00" name="calibre:timestamp"/>
+        <meta content="Rain Gods" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

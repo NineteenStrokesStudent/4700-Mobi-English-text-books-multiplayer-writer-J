@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">796a394e-27fc-4e4a-be69-8dc8425a30c8</dc:identifier>
+        <dc:title>The Summer Guest</dc:title>
+        <dc:creator opf:file-as="Cronin, Justin" opf:role="aut">Justin Cronin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-31T21:59:46.309000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Winner of the PEN/Hemingway Award for his radiant novel in stories, Mary and O’Neil, Justin Cronin has already been hailed as a writer of astonishing gifts. Now Cronin’s new novel, The Summer Guest, fulfills that promise—and more. With a rare combination of emotional insight, narrative power, and lyrical grace, Cronin transforms the simple story of a dying man’s last wish into a rich tapestry of family love. On an evening in late summer, the great financier Harry Wainwright, nearing the end of his life, arrives at a rustic fishing camp in a remote area of Maine. He comes bearing two things: his wish for a day of fishing in a place that has brought him solace for thirty years, and an astonishing bequest that will forever change the lives of those around him.From the battlefields of Italy to the turbulence of the Vietnam era, to the private battles of love and family, The Summer Guest reveals the full history of this final pilgrimage and its meaning for four people: Jordan Patterson, the haunted young man who will guide Harry on his last voyage out; the camp’s owner Joe Crosby, a Vietnam draft evader who has spent a lifetime “trying to learn what it means to be brave”; Joe’s wife, Lucy, the woman Harry has loved for three decades; and Joe and Lucy’s daughter Kate—the spirited young woman who holds the key to the last unopened door to the past.As their stories unfold, secrets are revealed, courage is tested, and the bonds of love are strengthened. And always center stage is the place itself—a magical, forgotten corner of New England where the longings of the human heart are mirrored in the wild beauty of the landscape. Intimate, powerful, and profound, The Summer Guest reveals Justin Cronin as a storyteller of unique and marvelous talent. It is a book to treasure.From the Hardcover edition.</dc:description>
+        <dc:publisher>Dial Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385335829</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-22T21:58:41.484000+00:00" name="calibre:timestamp"/>
+        <meta content="Summer Guest, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

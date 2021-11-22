@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5808</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb02e45e-323d-41b6-a244-c7e47ff41f37</dc:identifier>
+        <dc:title>The Living Dead 2</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">John Joseph Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T04:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Two years ago, readers eagerly devoured The Living Dead. Publishers Weekly named it one of the Best Books of the Year, and Barnes &amp; Noble.com called it "The best zombie fiction collection ever." Now acclaimed editor John Joseph Adams is back for another bite at the apple -- the Adam's apple, that is -- with 43 more of the best, most chilling, most thrilling zombie stories anywhere, including virtuoso performances by zombie fiction legends Max Brooks (World War Z, The Zombie Survival Guide), Robert Kirkman (The Walking Dead), and David Wellington (Monster Island).From Left 4 Dead to Zombieland to Pride and Prejudice and Zombies, ghoulishness has never been more exciting and relevant. Within these pages samurai warriors face off against the legions of hell, necrotic dinosaurs haunt a mysterious lost world, and eerily clever zombies organize their mindless brethren into a terrifying army. You'll even witness nightmare scenarios in which humanity is utterly wiped away beneath a relentless tide of fetid flesh.The Living Dead 2 has more of what zombie fans hunger for -- more scares, more action, more... brains. Experience the indispensable series that defines the very best in zombie literature.</dc:description>
+        <dc:publisher>Night Shade Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781597801904</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="The Living Dead" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-26T16:14:51.962804+00:00" name="calibre:timestamp"/>
+        <meta content="Living Dead 2, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

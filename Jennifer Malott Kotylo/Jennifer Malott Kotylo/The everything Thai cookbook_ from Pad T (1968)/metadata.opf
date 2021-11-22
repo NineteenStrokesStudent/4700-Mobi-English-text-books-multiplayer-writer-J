@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">309a05fe-626e-4c63-8d6c-57737593317d</dc:identifier>
+        <dc:title>The everything Thai cookbook: from Pad Thai to lemongrass chicken skewers, 300 tasty, tempting Thai dishes you can make at home</dc:title>
+        <dc:creator opf:file-as="Kotylo, Jennifer Malott" opf:role="aut">Jennifer Malott Kotylo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-11-01T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Sumptuous Thai dishes you can make at home!    
+
+Thai cuisine creates a  harmonious blend between spicy hot and comparatively bland ingredients from age-old Eastern and relatively new Western foods. Featuring  both outstanding traditional recipes and cutting-edge crowd-pleasers such as Spicy Fried Rice Sticks, Salmon Toast, Chicken Satay, and Thai Crab Cakes, The Everything® Thai Cookbook guides you through preparing meals as good as you’d find in your favorite Thai restaurant.     
+
+The Everything® Thai Cookbook is perfect for both vegetarians and meat-eaters, offering an eclectic range of spices, flavors, and aromas. Whether you want to prepare a meal for one—or an entire feast—The Everything® Thai Cookbook will have you serving up tasty fare to tempt even the most critical food connoisseur.    
+
+Featuring mouthwatering recipes for:    
+
+·Banana Fritters    
+
+·Chicken-Vegetable Rice    
+
+·Coconut Curried Chicken    
+
+·Fresh Oranges in Rose Water    
+
+·Pad Thai     
+
+·Pumpkin Rice Custard    
+
+·Spicy Rice and Shrimp Salad</dc:description>
+        <dc:publisher>Everything Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781580627337</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-13T22:52:02.684000+00:00" name="calibre:timestamp"/>
+        <meta content="everything Thai cookbook: from Pad Thai to lemongrass chicken skewers, 300 tasty, tempting Thai dishes you can make at home, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

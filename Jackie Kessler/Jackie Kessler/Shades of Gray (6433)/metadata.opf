@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ade4d971-f89d-4931-8a1b-16fab1a9db3f</dc:identifier>
+        <dc:title>Shades of Gray</dc:title>
+        <dc:creator opf:file-as="Kessler, Jackie &amp; Kittredge, Caitlin" opf:role="aut">Jackie Kessler</dc:creator>
+        <dc:creator opf:file-as="Kessler, Jackie &amp; Kittredge, Caitlin" opf:role="aut">Caitlin Kittredge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-22T09:09:31.568000+00:00</dc:date>
+        <dc:description>SUMMARY:
+AFTER THE FALL OF NIGHT Jet and Iridium—best friends turned bitter enemies—teamed up to foil the evil plans of the rogue superhero known as Night, but in defeating him they inadvertently destroyed the secret Corp-Co transmitter whose frequency kept the metapowered heroes of the Squadron in line. Now these heroes have turned against New Chicago, ransacking the city they once protected.Even worse, the powerful antisuperhero group known as Everyman has taken advantage of the chaos to fan the flames of prejudice against all superpowered men and women. Just when New Chicago needs them most, Jet and the small band of heroes who have remained on the right side of the law find themselves the targets of suspicion and outright hatred.Things aren’t going much better for Iridium. When she springs her father, a notorious supervillain, from prison to help her fight the marauding ex-superheroes, she finds that Corp-Co still has some nasty tricks up its sleeve.But when the most dangerous man alive, the sociopath known as Doctor Hypnotic, suddenly surfaces, Jet and Iridium will once again be called upon to set aside their differences. Yet in the process, deeply buried secrets will come to light that will change everything the former best friends think they know about each other and themselves.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553386325</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="The Icarus Project" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-26T09:08:05.201000+00:00" name="calibre:timestamp"/>
+        <meta content="Shades of Gray" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

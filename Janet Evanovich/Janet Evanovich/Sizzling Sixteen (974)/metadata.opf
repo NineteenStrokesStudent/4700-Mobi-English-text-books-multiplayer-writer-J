@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">974</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22aab77e-3fdc-46dc-ba78-cc13aaa3aca4</dc:identifier>
+        <dc:title>Sizzling Sixteen</dc:title>
+        <dc:creator opf:file-as="Evanovich, Janet" opf:role="aut">Janet Evanovich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-22T10:00:13.931000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Trenton, New Jersey, bounty hunter Stephanie Plum has inherited a lucky” bottle from her Uncle Pip. Problem is, Uncle Pip didn’t specify if the bottle brought good luck or bad luck. . . . 
+
+BAD LUCK:
+
+Vinnie, of Vincent Plum Bail Bonds, has run up a gambling debt of $786,000 with mobster Bobby Sunflower and is being held until the cash can be produced. Nobody else will pay to get Vinnie back, leaving it up to Stephanie, office manager Connie, and file clerk Lula to raise the money if they want to save their jobs.
+
+GOOD LUCK:
+
+Being in the business of tracking down people, Stephanie, Lula, and Connie have an advantage in finding Vinnie. If they can rescue him, it will buy them some time to raise the cash.
+
+BAD LUCK:
+
+Finding a safe place to hide Vinnie turns out to be harder than raising $786,000. Vinnie’s messing up Mooner’s vibe, running up pay-per-view porn charges in Ranger’s apartment, and making Stephanie question genetics.
+
+GOOD LUCK:
+
+Between a bonds office yard sale that has the entire Burg turning out, Mooner’s Hobbit-Con charity event, and Uncle Pip’s lucky bottle, they just might raise enough money to save the business, and Vinnie, from ruin. 
+
+BAD LUCK:
+
+Saving Vincent Plum Bail Bonds means Stephanie can keep being a bounty hunter. In Trenton, this involves hunting down a man wanted for polygamy, a turnpike toilet paper bandit, and a drug dealer with a pet alligator named Mr. Jingles.
+
+GOOD LUCK:
+
+The job of bounty hunter comes with perks in the guise of Trenton’s hottest cop, Joe Morelli, and the dark and dangerous security expert, Ranger. With any luck at all, Uncle Pip’s lucky bottle will have Stephanie getting lucky---the only question is . . . with whom?*
+
+*Sizzling Sixteen* . . . so hot, the pages might spontaneously combust!*</dc:description>
+        <dc:publisher>St. Martin's Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312383305</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Stephanie Plum" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-22T09:59:53.551000+00:00" name="calibre:timestamp"/>
+        <meta content="Sizzling Sixteen" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

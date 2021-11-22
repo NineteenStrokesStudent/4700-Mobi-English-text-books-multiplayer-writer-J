@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6575</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">158d1d61-7210-4965-b176-486f04b1bbcd</dc:identifier>
+        <dc:title>Bleak History</dc:title>
+        <dc:creator opf:file-as="Shirley, John" opf:role="aut">John Shirley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-18T07:24:12.295000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**CLASSIFIED: APPARENT SUPERNATURAL**
+
+**Subject: Gabriel Bleak. Status: Civilian. Paranormal skills: Powerful. Able to manipulate AS energies and communicate with UBEs (e.g. "ghosts" and other entities). Psychological profile: Extremely independent, potentially dangerous. *Caution is urged....***
+
+As far as Gabriel Bleak is concerned, talking to the dead is just another way of making a living. It gives him the competitive edge to survive as a bounty hunter, or "skip tracer," in the psychic minefield known as New York City. Unfortunately, his gift also makes him a prime target. A top-secret division of Homeland Security has been monitoring the recent emergence of human supernaturals, with Gabriel Bleak being the strongest on record. If they control Gabriel, they'll gain access to the Hidden -- the entity-based energy field that connects all life on Earth. But Gabriel's got other ideas. With a growing underground movement called the Shadow Community -- and an uneasy alliance of spirits, elementals, and other beings -- Gabriel's about to face the greatest demonic uprising since the Dark Ages. But this time, history is not going to repeat itself. This time, the future is Bleak. *Gabriel Bleak.*</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416584124</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T05:51:49.141000+00:00" name="calibre:timestamp"/>
+        <meta content="Bleak History" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

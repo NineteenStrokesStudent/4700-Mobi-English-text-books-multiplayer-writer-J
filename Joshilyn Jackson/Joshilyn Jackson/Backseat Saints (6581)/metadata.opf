@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6581</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9561c747-bbfb-471e-acb0-f3c8004af174</dc:identifier>
+        <dc:title>Backseat Saints</dc:title>
+        <dc:creator opf:file-as="Jackson, Joshilyn" opf:role="aut">Joshilyn Jackson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:38:07.590000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Rose Mae Lolley is a fierce and dirty girl, long-suppressed under flowery skirts and bow-trimmed ballet flats. As "Mrs. Ro Grandee" she's trapped in a marriage that's thick with love and sick with abuse. Her true self has been bound in the chains of marital bliss in rural Texas, letting "Ro" make eggs, iron shirts, and take her punches. She seems doomed to spend the rest of her life battered outside by her husband and inside by her former self, until fate throws her in the path of an airport gypsy---one who shares her past and knows her future. The tarot cards foretell that Rose's beautiful, abusive husband is going to kill her. Unless she kills him first. Hot-blooded Rose Mae escapes from under Ro's perky compliance and emerges with a gun and a plan to beat the hand she's been dealt. Following messages that her long-missing mother has left hidden for her in graffiti and behind paintings, Rose and her dog Gretel set out from Amarillo, TX back to her hometown of Fruiton, AL, and then on to California, unearthing a host of family secrets as she goes. Running for her life, she realizes that she must face her past in order to overcome her fate---death by marriage---and become a girl who is strong enough to save herself from the one who loves her best. BACKSEAT SAINTS will dazzle readers with a fresh and heartwrenching portrayal of the lengths a mother will go to right the wrongs she's created, and how far a daughter will go to escape the demands of forgiveness. With the seed of a minor character from her popular best-seller, GODS IN ALABAMA, Jackson has built a whole new story full of her trademark sly wit, endearingly off-kilter characters, and utterly riveting plot twists.</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780446582346</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T07:36:58.949000+00:00" name="calibre:timestamp"/>
+        <meta content="Backseat Saints" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

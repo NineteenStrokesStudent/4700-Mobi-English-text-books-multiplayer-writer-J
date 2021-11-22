@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5754</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38dcb53a-b487-480b-8c5d-76252b048f73</dc:identifier>
+        <dc:title>Beside a Burning Sea</dc:title>
+        <dc:creator opf:file-as="John, Shors," opf:role="aut">John Shors</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-02T06:11:34.406000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+From the author of *Beneath a Marble Sky* comes an inspiring new novel of a man and a woman from different worlds whose love is put to the ultimate test as they struggle to survive an extraordinary set of circumstances.
+
+
+
+ One moment, the World War II hospital ship *Benevolence* is patrolling the South Pacific on a mission of mercy—to save wounded American soldiers.  The next, *Benevolence* is split in two by a torpedo, killing almost everyone on board. A small band of survivors, including an injured Japanese soldier and a young American nurse whom he saves from drowning, makes it to the deserted shore of a nearby island. 
+
+
+
+ Akira has suffered five years of bloodshed and horror fighting for the Japanese empire. Now, surrounded by enemies he is supposed to hate, he instead finds solace in their company—and rediscovers his love of poetry. While sharing the mystery and beauty of this passion with Annie, the captivating but tormented woman he rescued, Akira grapples with the pain of his past while helping Annie uncover the promise of her future. Meanwhile, the remaining castaways endure a world not of their making—a world as barbaric as it is beautiful, as hateful as it is loving.
+
+
+
+ With the blend of epic storytelling and emotional intensity that distinguishes him as a unique talent, John Shors reveals a powerful story of redemption focusing on unlikely lovers, heroes and villains, and war-torn countries—all, in their own ways, fighting to survive.</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451224927</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T06:06:31.608000+00:00" name="calibre:timestamp"/>
+        <meta content="Beside a Burning Sea" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

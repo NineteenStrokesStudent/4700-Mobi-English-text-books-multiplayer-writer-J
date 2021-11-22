@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6576</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f13c094-e4c8-488f-9528-8238f8279fd6</dc:identifier>
+        <dc:title>Toward the End of Time</dc:title>
+        <dc:creator opf:file-as="Updike, John" opf:role="aut">John Updike</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-08-25T07:24:16.683000+00:00</dc:date>
+        <dc:description>SUMMARY:
+JOHN UPDIKE IS "A STYLIST OF THE HIGHEST ORDER, capable of illuminating the sublime in the mundane, thereby elevating all of human experience." --Chicago Tribune Toward the End of Time "is the journal of a 66-year-old man, Ben Turnbull . . . [which] reveals not only the world but the wanderings of his wits. . . . So what if he jumps from a United States in the next century, disintegrating after a war with China, to ancient Egypt, or to virtual reality? So what if characters appear and disappear like phantoms in a dream? . . . Turnbull's journal is like Walden gone haywire. . . . If Ben's ruthlessness is evenhanded, so is his alarming intelligence; it falls on every scene, person, object, and thought in the book, giving it an eerie ambiance." --The New York Times Book Review "A BOOK AIMED NOT TO RESOLVE BUT TO AROUSE A READER'S WONDER . . . Vintage Updike: marital angst worked out against the chilly backdrop of privilege, rendered with a lyricism and insight and eye for detail reminiscent of the work of Jane Austen." --The Miami Herald "WONDERFUL RUSHES OF NEAR-MELVILLEAN PROSE . . . Toward the End of Time has a force that gets under your skin." --New York Review of Books A Main Selection of the Book-of-the-Month Club</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780449000410</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T05:51:52.232000+00:00" name="calibre:timestamp"/>
+        <meta content="Toward the End of Time" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

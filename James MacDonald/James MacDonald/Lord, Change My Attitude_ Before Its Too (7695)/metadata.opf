@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7695</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">722645a8-0031-4bb5-9f74-df97d6804510</dc:identifier>
+        <dc:title>Lord, Change My Attitude: Before Its Too Late</dc:title>
+        <dc:creator opf:file-as="MacDonald, James" opf:role="aut">James MacDonald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-03-01T08:00:00+00:00</dc:date>
+        <dc:description>Negative attitudes scar our hearts, enslave our spirits, and keep us from experiencing abundant life in Christ. These attitudes are pervasive in the Christian church today and, according to James MacDonald, they thrust children of God into a dry, spiritual wilderness. In his new book, Lord, Change My Attitude ... Before It's Too Late, MacDonald walks readers through how to "put off" five common negative attitudes and "put on" five positive attitudes in their place. Practical instruction will boldly challenge readers to let God transform their attitudes before it's too late.
+ 
+ &lt;/div&gt;
+ &lt;h3&gt;About the Author&lt;/h3&gt;
+ &lt;div&gt;
+ &lt;div&gt;&lt;div&gt;&lt;b&gt;JAMES MACDONALD&lt;/b&gt; is the founding pastor of Harvest Bible Chapel in Rolling Meadows, Illinois.  His radio broadcast &lt;i&gt;Walk in the Word &lt;/i&gt;can be heard daily on over 650 stations around the country, and &lt;i&gt;Listen Up&lt;/i&gt;, his 1-minute feature, can be heard on nearly 1,100 stations.  He is the author of four books, including &lt;i&gt;Seven Words to Change Your Family, Gripped By the Greatness of God,&lt;/i&gt; and &lt;i&gt;I Really Want to Change...So Help Me God&lt;/i&gt;.  &lt;br&gt;&lt;/div&gt;&lt;/div&gt;
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;</dc:description>
+        <dc:publisher>Moody Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780802434425</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Religon</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-04T02:54:16.232000+00:00" name="calibre:timestamp"/>
+        <meta content="Lord, Change My Attitude: Before Its Too Late" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Religon&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

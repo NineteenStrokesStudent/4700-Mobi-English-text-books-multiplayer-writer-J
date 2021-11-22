@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6459</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e4e8117-1faf-44c7-8eec-f092d70977ae</dc:identifier>
+        <dc:title>Hope for Animals and Their World: How Endangered Species Are Being Rescued from the Brink</dc:title>
+        <dc:creator opf:file-as="Goodall, Jane &amp; Maynard, Thane &amp; Hudson, Gail" opf:role="aut">Jane Goodall</dc:creator>
+        <dc:creator opf:file-as="Goodall, Jane &amp; Maynard, Thane &amp; Hudson, Gail" opf:role="aut">Thane Maynard</dc:creator>
+        <dc:creator opf:file-as="Goodall, Jane &amp; Maynard, Thane &amp; Hudson, Gail" opf:role="aut">Gail Hudson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The incredible rapid rate at which various animals and plants are disappearing from the planet is shocking. Scientists currently believe that habitats across the globe are losing dozens of species every day. Jane Goodall, who has become one of the standard-bearers for animal conservation through her numerous books, television programmes and close work with animals, is nonetheless defiant - 'While there is life there is hope', she states in her introduction to this profound and inspirational book. In demanding natural and political environments conservationists risk their lives to save animals from the brink of extinction. Jane's unique access takes us inside these programmes, meeting first-hand a vast range of animals from Giant Pandas in China to the young generations of Whooping Cranes in Texas that are being taught new migration routes - led by human devotees in flying machines. "Hope For Animals and Their World" is a celebration of the great work being done to protect our wildlife for future generations. Goodall's message rings loud and clear: we must not give up.</dc:description>
+        <dc:publisher>Icon Books, Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781848311343</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Non-fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-26T10:22:47.987000+00:00" name="calibre:timestamp"/>
+        <meta content="Hope for Animals and Their World: How Endangered Species Are Being Rescued from the Brink" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Non-fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

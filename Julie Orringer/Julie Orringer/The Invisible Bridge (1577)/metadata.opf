@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1577</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6c3f0f7-85bd-42c5-9ccc-5f95b0fc3560</dc:identifier>
+        <dc:title>The Invisible Bridge</dc:title>
+        <dc:creator opf:file-as="Orringer, Julie" opf:role="aut">Julie Orringer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T08:59:29.698000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Julie Orringer’s astonishing first novel, eagerly awaited since the publication of her heralded best-selling short-story collection, *How to Breathe Underwater* (“fiercely beautiful”—*The New York Times;* “unbelievably good”—Monica Ali), is a grand love story set against the backdrop of Budapest and Paris, an epic tale of three brothers whose lives are ravaged by war, and the chronicle of one family’s struggle against the forces that threaten to annihilate it.Paris, 1937. Andras Lévi, a Hungarian-Jewish architecture student, arrives from Budapest with a scholarship, a single suitcase, and a mysterious letter he has promised to deliver to C. Morgenstern on the rue de Sévigné. As he falls into a complicated relationship with the letter’s recipient, he becomes privy to a secret history that will alter the course of his own life. Meanwhile, as his elder brother takes up medical studies in Modena and their younger brother leaves school for the stage, Europe’s unfolding tragedy sends each of their lives into terrifying uncertainty. At the end of Andras’s second summer in Paris, all of Europe erupts in a cataclysm of war.From the small Hungarian town of Konyár to the grand opera houses of Budapest and Paris, from the lonely chill of Andras’s room on the rue des Écoles to the deep and enduring connection he discovers on the rue de Sévigné, from the despair of Carpathian winter to an unimaginable life in forced labor camps and beyond, *The Invisible Bridge* tells the story of a love tested by disaster, of brothers whose bonds cannot be broken, of a family shattered and remade in history’s darkest hour, and of the dangerous power of art in a time of war.Expertly crafted, magnificently written, emotionally haunting, and impossible to put down, *The Invisible *Bridge resoundingly confirms Julie Orringer’s place as one of today’s most vital and commanding young literary talents.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781400041169</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-01T16:26:05.330000+00:00" name="calibre:timestamp"/>
+        <meta content="Invisible Bridge, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

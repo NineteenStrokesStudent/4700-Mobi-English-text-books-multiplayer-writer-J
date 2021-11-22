@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6509</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7687848c-a697-4e84-bd86-a9e5de6ebb8b</dc:identifier>
+        <dc:title>The Wrong Man: A Novel</dc:title>
+        <dc:creator opf:file-as="Katzenbach, John" opf:role="aut">John Katzenbach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-15T03:42:23.450000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Scott Freeman is a man of reason–a college professor grounded in the rational and practical. But he becomes uneasy after finding an anonymous love letter hidden in his daughter’s room: “No one could ever love you like I do. No one ever will. We will be together forever. One way or another.” But the reality of Ashley’s plight far exceeds Scott’s worst suspicions. One drink too many had led Ashley, a beautiful, bright art student, into what she thought was just a fling with a blue-collar bad boy. But now, no amount of pleading or reasoning can discourage his phone calls, ardent e-mails, and constant, watchful gaze. Michael O’Connell is but a malignant shadow of a man. His brash, handsome features conceal a black and empty soul. Control is his religion. Cunning and criminal skill are his stock-in-trade. Rage is his language. The harder Ashley tries to break free, the deeper Michael burrows into every aspect of her life, so she turns in desperation to her divorced parents and her mother’s new partner–three people still locked in a coldly civilized triangle of resentment. But their fierce devotion to Ashley is the common bond that will draw them together to face down a predator. For Ashley’s family, it is a test of primal love that will drive them to the extreme edge–and beyond–in a battle of wills that escalates into a life-or-death war to protect their own. From the bestselling master of suspense, John Katzenbach, TheWrong Manis an elegantly crafted and breathtakingly intense read that asks the question, “How far would you go to save the child you love?” From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345495457</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T03:40:18.649000+00:00" name="calibre:timestamp"/>
+        <meta content="Wrong Man: A Novel, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 4, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

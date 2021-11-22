@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b9bb439-5497-4e55-8aa8-cf1360a99eb6</dc:identifier>
+        <dc:title>The Man Who Made Husbands Jealous</dc:title>
+        <dc:creator opf:file-as="Cooper, Jilly" opf:role="aut">Jilly Cooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-10-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Lysander Hawkley Combined Breathtaking Good Looks With The Kindest Of Hearts. He Couldn'T Pass A Stray Dog, An Ill-Treated Horse, Or A Neglected Wife Without Rushing To The Rescue. And With Neglected Wives The Rescue Invariably Led To Ecstatic Bonking, Which Didn'T Please Their Erring Husbands One Bit. Lysander'S Mid-Life Crisis Had Begun At Twenty-Two. Reeling From The Death Of His Beautiful Mother, He Was Out Of Work, Drinking Too Much And Desperately In Debt. The Solution Came From Ferdie, His Fat, Fast-Operating Friend: If Lysander Was So Good At Making Husbands Jealous, Why Shouldn'T He Get Paid For It? So Ferdie Moved Him Into The Idyllic Rutshire Village Of Paradise, Which Teemed With Underserviced Wives Whose Husbands Were Whooping It Up In London. Not Only Did Lysander Cause Absolute Havoc, But As The Husbands Came Roaring Home To Protect Their Property He Was Soon Awash With Cash, Polo Ponies, Yachts And Ferraris Given Him By Grateful Wives. But Husband Rattling Has Its Complications. The Undisputed King Rat Of Rutshire Was A Fiendishly Temperamental, World-Famous Conductor Called Rannaldini, Who Lived In A Huge Haunted Abbey Overlooking Paradise With A Rottweiler Called Tabloid And A String Of Racehorses And Glamorous Groupies. Indeed, The Only Unglamorous Woman Around Rannaldini Was The One Who Ran His Life Like Clockwork, His Plump Young Wife Kitty. Soon Lysander Was Seriously Convinced That Kitty Must Be Rescued At All Costs From Rannaldini'S Sadistic Promiscuity. Frantic To Prove He Was Not Just A Far-From-Cheap Wife-Enhancer, Lysander Enlisted The Help Of Old Blue-Eyed Havoc Maker Rupert Campbell-Black, Who As A Successful Trainer Had His Own Reasons For Wanting To Bury Rannaldini - And The Battle Of The Giants Was On.</dc:description>
+        <dc:publisher>Corgi</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780552150583</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="Cooper's horse series" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-02T19:26:39.825000+00:00" name="calibre:timestamp"/>
+        <meta content="Man Who Made Husbands Jealous, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

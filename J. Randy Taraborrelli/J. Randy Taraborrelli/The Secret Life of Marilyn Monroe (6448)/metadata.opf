@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6448</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09cfac77-524a-415b-98aa-d6ca81c264e9</dc:identifier>
+        <dc:title>The Secret Life of Marilyn Monroe</dc:title>
+        <dc:creator opf:file-as="Taraborrelli, J. Randy" opf:role="aut">J. Randy Taraborrelli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-15T09:34:26.134000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Beautiful, damaged, the ultimate sex symbol, publicly celebrated, privately unhappy - Marilyn Monroe's tumultuous life and untimely death continue to fascinate us. When Marilyn Monroe became famous in the 1950s, the world was told that her mother was either dead or simply not a part of her life. However, that was not true. In fact, her mentally ill mother was very much present in Marilyn's world and the complex family dynamic that unfolded behind the scenes is a story that has never been told - until now. In this groundbreaking book, Taraborrelli draws complex and sympathetic portraits of the women so influential in the actress' life, including her mother, her foster mother and her legal guardian. He also reveals, for the first time, the shocking scope of Marilyn's own mental illness, the identity of Marilyn's father and the half-brother she never knew, and new information about her relationship with the Kennedys - Bobby, Jack and Pat Lawford Kennedy. Explosive, revelatory and surprisingly moving, this is the final word on the life of one of the most fascinating and elusive icons of the twentieth century.</dc:description>
+        <dc:publisher>Pan Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780330461351</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-26T09:33:40.885000+00:00" name="calibre:timestamp"/>
+        <meta content="Secret Life of Marilyn Monroe, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

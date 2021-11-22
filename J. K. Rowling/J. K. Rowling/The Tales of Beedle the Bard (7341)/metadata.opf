@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3198cc6d-6491-4386-bacd-4130dcb1f8e0</dc:identifier>
+        <dc:title>The Tales of Beedle the Bard</dc:title>
+        <dc:creator opf:file-as="Rowling, J. K." opf:role="aut">J. K. Rowling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-04T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+'You've never heard of The Tales of Beedle the Bard?' said Ron incredulously. 'You're kidding, right?' (From Harry Potter and the Deathly Hallows)  Published by the charity Lumos in association with Bloomsbury Publishing Plc, The Tales of Beedle the Bard is the first new book from J. K. Rowling since the publication of Harry Potter and the Deathly Hallows. The Tales of Beedle the Bard played a crucial role in assisting Harry, with his friends Ron and Hermione, to finally defeat Lord Voldemort. Fans will be thrilled to have this opportunity to read the tales in full. An exciting addition to the canon of Harry Potter, the tales reveal the wonderful versatility of the author, as she tackles with relish the structure and varying tones of a classic fairy tale. There are five tales: 'The Tale of the Three Brothers', recounted in Deathly Hallows, plus 'The Fountain of Fair Fortune', 'The Warlock's Hairy Heart', 'The Wizard and the Hopping Pot', and 'Babbitty Rabbitty and her Cackling Stump'. Each has its own magical character and will bring delight, laughter and the thrill of mortal peril.  Translated from the original runes by Hermione Granger, the tales are introduced and illustrated by J. K. Rowling. Also included are notes by Professor Albus Dumbledore, which appear by kind permission of the Hogwarts Headmasters' Archive.  Lumos is a charity founded by J. K. Rowling which aims to make life better for disadvantaged children.  Registered Charity Number: 1112575.</dc:description>
+        <dc:publisher>Children's High Level Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780747599876</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Children's Books</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-10T21:57:50.632000+00:00" name="calibre:timestamp"/>
+        <meta content="Tales of Beedle the Bard, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Children's Books&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

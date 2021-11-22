@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2084</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1daab1c9-ffbd-4087-a3ac-2179221bdbe4</dc:identifier>
+        <dc:title>Consequences</dc:title>
+        <dc:creator opf:file-as="Cartmel, Andrew,Lidster, Joseph,Llewellyn, David,M" opf:role="aut">Joseph Lidster</dc:creator>
+        <dc:creator opf:file-as="Cartmel, Andrew,Lidster, Joseph,Llewellyn, David,M" opf:role="aut">James Moran</dc:creator>
+        <dc:creator opf:file-as="Cartmel, Andrew,Lidster, Joseph,Llewellyn, David,M" opf:role="aut">Andrew Cartmel</dc:creator>
+        <dc:creator opf:file-as="Cartmel, Andrew,Lidster, Joseph,Llewellyn, David,M" opf:role="aut">David Llewellyn</dc:creator>
+        <dc:creator opf:file-as="Cartmel, Andrew,Lidster, Joseph,Llewellyn, David,M" opf:role="aut">Sarah Pinborough</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Saving the planet, watching over the Rift, preparing the human race for the twenty-first century. Torchwood has been keeping Cardiff safe since the late 1800s. Small teams of heroes, working 24/7, encountering and containing the alien, the bizarre and the inexplicable. But Torchwood do not always see the effects of their actions. When an overlooked alien artefact despatches Jack Harkness into the past, how much of the twentieth century will he have to live through again? What links a three-year-old boy in 1994 to the destruction of a shopping centre in 2009? How does a witness to an alien's reprisals against Torchwood become caught up in a night of terror in a university library? And why should Gwen and Ianto's actions at a local publisher's have a cost for Torchwood more than half a century earlier? For Torchwood, the past will always catch up with them. And sometimes the future will catch up with the past.</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781846077845</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Torchwood" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-01T01:15:38.250000+00:00" name="calibre:timestamp"/>
+        <meta content="Consequences" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

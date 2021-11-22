@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3a52c17-f966-4eaf-837d-962f9652570f</dc:identifier>
+        <dc:title>Plum lovin'</dc:title>
+        <dc:creator opf:file-as="Evanovich, Janet" opf:role="aut">Janet Evanovich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-09T08:57:07.127000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+From #1 blockbuster bestselling author Janet Evanovich comes a Stephanie Plum novel that takes adventure, action, suspense (and maybe even true love?) to new heights.
+
+WATCH YOUR BACK . . .
+
+LOOK BOTH WAYS . . .
+
+BECAUSE LOVE IS IN THE AIR . . . 
+
+AND THAT MEANS BIG TROUBLE!
+
+Mysterious men have a way of showing up in Stephanie Plum s apartment. When the shadowy Diesel appears, he has a task for Stephanie--and he s not taking no for an answer. Annie Hart is a relationship expert who is wanted for armed robbery and assault with a deadly weapon. Stephanie needs to find her, fast. Diesel knows where she is. So they make a deal: He ll help her get Annie if Stephanie plays matchmaker to several of Annie s most difficult clients. But someone wants to find Annie even more than Diesel and Stephanie. Someone with a nasty temper. And someone with unmentionable skills. Does Diesel know more than he s saying about Annie Hart? Does Diesel have secrets he s keeping from Stephanie and the two men in her life--Ranger and Morelli? With Stephanie Plum in over her head, things are sure to get a little dicey and a little explosive, Jersey style!</dc:description>
+        <dc:publisher>St. Martin's Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312306342</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Stephanie Plum" name="calibre:series"/>
+        <meta content="12.50" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-18T08:50:59.911000+00:00" name="calibre:timestamp"/>
+        <meta content="Plum lovin'" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

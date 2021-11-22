@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6449</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">858bdd89-51c6-459d-ad5d-cb8a28a55553</dc:identifier>
+        <dc:title>The Dragon Charmer</dc:title>
+        <dc:creator opf:file-as="Siegel, Jan" opf:role="aut">Jan Siegel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-07-30T10:13:06.266000+00:00</dc:date>
+        <dc:description>SUMMARY:
+In the enchanting novel Prospero's Children, Jan Siegel introduced an extraordinary heroine and the lushly evocative world of wonders and terrors that quickly enveloped her normal adolescent life. Now Siegel summons us back to the magic with the continuing story of Fern Capel--and the remarkable power of her extraordinary Gift . . . After surviving an amazing, terrifying summer twelve years ago, Fern makes a fateful decision: to deny the mystical powers that pulse through her family's past. Yearning for a simple, quiet life, she decides to marry a man twenty years her senior, a man who insists they wed at the Capels' summer house in Yarrowdale, a place swelling with mood, marvel, and magic. For when Fern returns there with her best friend, Gaynor, ancient, sinister forces reawaken. Yet Fern has had enough: Enough of running from her fate, enough of hiding from her Gift. As she turns to face her destiny, the real world falls away, and Fern is once again swept into another land, removed from Time, void of comfort. It will take all her skill and daring to fight her way back to the present and save the people she loves from the ever-growing danger that threatens to destroy them. And to her utmost surprise, the key to survival is a dragon with the capacity to rule the world . . . but who will relinquish it all to one man. Jan Siegel has created an intense, fascinating world. To surrender yourself under her captivating spell is to remember how remarkably powerful a literary voyage can be. From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345442581</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Fern Capel" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-26T10:12:11.335000+00:00" name="calibre:timestamp"/>
+        <meta content="Dragon Charmer, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

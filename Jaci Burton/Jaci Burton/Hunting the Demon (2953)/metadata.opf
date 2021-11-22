@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2953</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef8e9750-c24b-453f-b166-8c6c38200aeb</dc:identifier>
+        <dc:title>Hunting the Demon</dc:title>
+        <dc:creator opf:file-as="Burton, Jaci" opf:role="aut">Jaci Burton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-28T02:40:30.698000+00:00</dc:date>
+        <dc:description>SUMMARY:
+In a world seething with sin and seduction, the chase is on.Hunting demons for a living can have its moments. Especially when Shay Pearson’s latest quarry is the gorgeous bronze surfer who just stepped out of the sea. Uncovering Nic Diavolo’s devilish side could prove Shay’s toughest assignment yet. Because while she’s acting as bait to snatch this sexy bad boy, Nic’s got a plan of seduction no woman—earthly or otherwise—can resist. Caught between two warring realms, Nic needs to stay alive long enough to figure out who his enemies are. That includes the beautiful hunter who won’t let him out of her sight. And something far worse: a force of evil with an almost unimaginable goal— possessing Nic’s very soul. But the hunt really heats up when a guy who’s hotter than Hades and a woman who’s afraid of love join forces, igniting an inferno of lust and longing that could send them into mortal danger...or straight into each other’s arms.…</dc:description>
+        <dc:publisher>DELL</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440243366</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Fantasy</dc:subject>
+        <meta content="Demon Hunters" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-08-09T04:35:24+00:00" name="calibre:timestamp"/>
+        <meta content="Hunting the Demon" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

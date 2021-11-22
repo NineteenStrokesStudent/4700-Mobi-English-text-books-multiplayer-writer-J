@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6465</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a6db38d-fc63-4cd3-88c7-fec8d94a73c1</dc:identifier>
+        <dc:title>97 Orchard: An Edible History of Five Immigrant Families in One New York Tenement</dc:title>
+        <dc:creator opf:file-as="Ziegelman, Jane" opf:role="aut">Jane Ziegelman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-02T10:33:30.980000+00:00</dc:date>
+        <dc:description>SUMMARY:
+In "97 Orchard," Jane Ziegelman explores the culinary life that was the heart and soul of New York's Lower East Side around the turn of the twentieth century--a city within a city, where Germans, Irish, Italians, and Eastern European Jews attempted to forge a new life. Through the experiences of five families, all of them residents of 97 Orchard Street, she takes readers on a vivid and unforgettable tour, from impossibly cramped tenement apartments down dimly lit stairwells where children played and neighbors socialized, beyond the front stoops where immigrant housewives found respite and company, and out into the hubbub of the dirty, teeming streets.  Ziegelman shows how immigrant cooks brought their ingenuity to the daily task of feeding their families, preserving traditions from home but always ready to improvise. While health officials worried that pushcarts were unsanitary and that pickles made immigrants too excitable to be good citizens, a culinary revolution was taking place in the streets of what had been culturally an English city. Along the East River, German immigrants founded breweries, dispensing their beloved lager in the dozens of beer gardens that opened along the Bowery. Russian Jews opened tea parlors serving blintzes and strudel next door to Romanian nightclubs that specialized in goose pastrami. On the streets, Italian peddlers hawked the cheese-and-tomato pies known as "pizzarelli," while Jews sold knishes and squares of halvah. Gradually, as Americans began to explore the immigrant ghetto, they uncovered the array of comestible enticements of their foreign-born neighbors. "97 Orchard" charts this exciting process of discovery as it lays bare the roots of our collective culinary heritage.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061288500</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-26T10:32:59.819000+00:00" name="calibre:timestamp"/>
+        <meta content="97 Orchard: An Edible History of Five Immigrant Families in One New York Tenement" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

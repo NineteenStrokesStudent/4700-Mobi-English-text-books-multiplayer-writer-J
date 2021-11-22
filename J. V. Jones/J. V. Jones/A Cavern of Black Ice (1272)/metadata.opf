@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1272</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f34ead96-8477-41a2-8db9-fc6ce5160785</dc:identifier>
+        <dc:title>A Cavern of Black Ice</dc:title>
+        <dc:creator opf:file-as="Jones, J. V." opf:role="aut">J. V. Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-05T05:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+A Cavern of Black Ice opens J.V. Jones's Sword of Shadows trilogy. (Her first novel was The Baker's Boy.) The story is set in a land divided among small warring clans of hunters and more sophisticated southern cities whose lords covet the clan territories. Young clansman Raif has a touch of "old blood" magic that guides his arrows to the heart. Bad times come when a hunting party that includes his father and clan chief is wiped out by a supernaturally aided attack, and Raif's open suspicion of the brutal new leader eventually drives him into exile. Meanwhile, Iss, overlord of Spire Vanis city, keeps a chained-up sorcerer whose powers he channels by revolting means, and has unexplained but shuddersome plans for his "foster daughter" Ash--herself an unwilling focus of dread forces. Raif and Ash find themselves fleeing together through wintry, hostile clanlands, pursued by Iss's vilest henchmen, seeking the dubious goal of the Cavern of Black Ice. What lifts this tale far above routine quest fantasy is Jones's deft characterization, relentless intensity, and unsparing depiction of pain and slow-healing injury. She has a flair for memorably horrid images. Here a sorcerer gloats over one of his nastier tricks: "A man could not fight when his corneas were snapped from his eyes like badges from a chest." This hefty volume is over 800 pages long, but the narrative grips hard once it's gained momentum, and the pages turn increasingly fast. Strong meat. Next comes book two, A Fortress of Grey Ice. --David Langford, Amazon.co.uk</dc:description>
+        <dc:publisher>Tor Fantasy</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">076534551X</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Sword of Shadows" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-01-05T09:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Cavern of Black Ice, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

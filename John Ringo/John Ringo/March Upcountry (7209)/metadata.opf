@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5c51255-a32b-4b9e-a29e-2cbb0fa554be</dc:identifier>
+        <dc:title>March Upcountry</dc:title>
+        <dc:creator opf:file-as="Ringo, John" opf:role="aut">John Ringo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-05-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**The Royal Brat is in Trouble** 
+
+ Roger Ramius Sergei Chiang MacClintock didn't understand. 
+
+ He was young, handsome, athletic, an *excellent* dresser, and third in line for the Throne of Man...so why wouldn't anyone at Court *trust* him? 
+
+ Why wouldn't even his own mother, the Empress, explain *why* they didn't trust him? Or why the very mention of his father's name was forbidden at Court? Or why his mother had decided to pack him off to a backwater planet aboard what was little more than a tramp freighter to represent her at a local political event better suited to a third assistant undersecretarv of state? 
+
+ It probably wasn't too surprising that someone in his position should react by becoming spoiled, selfcentered and petulant. After all, what else did he have to do with his life? 
+
+ But that was before a saboteur tried to blow up his transport. Then warships of the Empire of Man's worst rivals shot the crippled vessel out of space. Then Roger found himself shipwrecked on the planet Marduk, whose jungles were full of damnbeasts, killerpillars, carnivorous plants, torrential rain, and barbarian hordes with really *bad* dispositions. Now all Roger has to do is hike halfway around the entire planet, then capture a spaceport from the Bad Guys, somehow commandeer a starship, and then go home to Mother for explanations. 
+
+ Fortunately, Roger has an ace in the hole: Bravo Company of Bronze Battalion of The Empress' Own Regiment. If anyone can get him off Marduk alive, it's the Bronze Barbarians. 
+
+ Assuming that Prince Roger manages to grow up before he gets all of them killed.</dc:description>
+        <dc:publisher>Pocket Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780671319854</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Empire of Man" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-05T22:40:50.455000+00:00" name="calibre:timestamp"/>
+        <meta content="March Upcountry" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

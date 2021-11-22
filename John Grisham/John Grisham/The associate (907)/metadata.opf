@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">907</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4df879a4-62be-4be3-95a4-ccba82e578f8</dc:identifier>
+        <dc:title>The associate</dc:title>
+        <dc:creator opf:file-as="Grisham, John" opf:role="aut">John Grisham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-27T18:04:23.555000+00:00</dc:date>
+        <dc:description>SUMMARY:
+If you thought Mitch McDeere was in trouble in "The Firm," waituntil you meet Kyle McAvoy, "The Associate" Kyle McAvoy grew up in his father's small-town law office in York, Pennsylvania. He excelled in college, was elected editor-in-chief of "The Yale Law Journal," and his future has limitless potential. But Kyle has a secret, a dark one, an episode from college that he has tried to forget. The secret, though, falls into the hands of the wrong people, and Kyle is forced to take a job he doesn't want--even though it's a job most law students can only dream about. Three months after leaving Yale, Kyle becomes an associate at the largest law firm in the world, where, in addition to practicing law, he is expected to lie, steal, and take part in a scheme that could send him to prison, if not get him killed. With an unforgettable cast of characters and villains--from Baxter Tate, a drug-addled trust fund kid and possible rapist, to Dale, a pretty but seemingly quiet former math teacher who shares Kyle's "cubicle" at the law firm, to two of the most powerful and fiercely competitive defense contractors in the country--and featuring all the twists and turns that have made John Grisham the most popular storyteller in the world, The Associate is vintage Grisham.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385517836</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Legal</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-11T03:05:56.178000+00:00" name="calibre:timestamp"/>
+        <meta content="associate, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Legal&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

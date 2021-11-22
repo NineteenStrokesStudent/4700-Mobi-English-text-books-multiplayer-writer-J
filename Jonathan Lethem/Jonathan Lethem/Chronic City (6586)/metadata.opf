@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c641484c-4774-4a1f-ba33-4cc21bc4941f</dc:identifier>
+        <dc:title>Chronic City</dc:title>
+        <dc:creator opf:file-as="Lethem, Jonathan" opf:role="aut">Jonathan Lethem</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-13T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+The acclaimed author of "Motherless Brooklyn" and "The Fortress of Solitude" returns with a roar with this gorgeous, searing portrayal of Manhattanites wrapped in their own delusions, desires, and lies. Chase Insteadman, a handsome, inoffensive fixture on Manhattan's social scene, lives off residuals earned as a child star on a beloved sitcom called "Martyr &amp; Pesty." Chase owes his current social cachet to an ongoing tragedy much covered in the tabloids: His teenage sweetheart and fiancee, Janice Trumbull, is trapped by a layer of low-orbit mines on the International Space Station, from which she sends him rapturous and heartbreaking love letters. Like Janice, Chase is adrift, she in Earth's stratosphere, he in a vague routine punctuated by Upper East Side dinner parties. Into Chase's cloistered city enters Perkus Tooth, a wall-eyed free-range pop critic whose soaring conspiratorial riffs are fueled by high-grade marijuana, mammoth cheeseburgers, and a desperate ache for meaning. Perkus's countercultural savvy and voracious paranoia draw Chase into another Manhattan, where questions of what is real, what is fake, and who is complicit take on a life-shattering urgency. Along with Oona Laszlo, a self-loathing ghostwriter, and Richard Abneg, a hero of the Tompkins Square Park riot now working as a fixer for the billionaire mayor, Chase and Perkus attempt to unearth the answers to several mysteries that seem to offer that rarest of artifacts on an island where everything can be bought: Truth. Like Manhattan itself, Jonathan Lethem's masterpiece is beautiful and tawdry, tragic and forgiving, devastating and antic, a stand-in for the whole world and a place utterly unique.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385518635</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T07:37:42.596000+00:00" name="calibre:timestamp"/>
+        <meta content="Chronic City" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

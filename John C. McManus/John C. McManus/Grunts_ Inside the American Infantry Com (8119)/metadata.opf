@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8119</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">691c2547-9cf7-47ae-a94d-494a83858ccd</dc:identifier>
+        <dc:title>Grunts: Inside the American Infantry Combat Experience, World War II Through Iraq</dc:title>
+        <dc:creator opf:file-as="McManus, John C." opf:role="aut">John C. McManus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-03T10:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+In Grunts, renowned historian John C. McManus demonstrates that, from the invasion beaches of the Second World War to the deserts of the Middle East, the foot soldier has been the most indispensible-and most overlooked-factor in wartime victory.  Advances in weaponry have threatened to render the infantryman obsolete for centuries. Even today, precision-guided munitions, nuclear bombs, aerial drones, computers, and satellites have made victory in modern warfare seem like a simple matter of superior hardware, negating the need for ground soldiers. In truth, even as technology advanced at a dizzying pace throughout the twentieth and early twenty-first centuries, ground soldiers, especially infantry "grunts," did almost all of the fighting and dying in America's wars.  Examining ten critical battles, McManus covers six decades of warfare-from the 1944 fight on the island of Guam to today's counterinsurgency combat in Iraq-in which the skills and courage of American troops proved the crucial difference between victory and defeat. Penetrating the flowery rhetoric of headlines and standard battle narratives, McManus exposes the shocking brutal realities of modern ground combat.  Based on years of archival research and personal interviews with veterans, this powerful history reveals the ugly face of war in a way that few books have. Grunts demonstrates the vital, and too often forgotten, importance of the human element in protecting the American nation, and advances a passionate plea for fundamental change in our understanding of war.</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451227904</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-19T18:44:35.827000+00:00" name="calibre:timestamp"/>
+        <meta content="Grunts: Inside the American Infantry Combat Experience, World War II Through Iraq" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

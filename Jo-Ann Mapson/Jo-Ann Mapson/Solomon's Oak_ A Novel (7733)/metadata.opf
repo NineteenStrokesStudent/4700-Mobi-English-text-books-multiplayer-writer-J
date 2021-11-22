@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7733</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6346b3f-9d0a-4ccf-a710-d5fe4ee67fd6</dc:identifier>
+        <dc:title>Solomon's Oak: A Novel</dc:title>
+        <dc:creator opf:file-as="Mapson, Jo-Ann" opf:role="aut">Jo-Ann Mapson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-12T16:27:26.955000+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+ 
+ &lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+ &lt;div&gt;
+ Mapson's (Hank &amp;amp; Chloe) latest is an emotionally genuine if predictable story of three lonely, damaged people who find solace in one another. A year after the untimely death of her husband, Dan, Glory Solomon is adrift, in financial trouble, and unable to find much meaning in a world without her mate. But when she opens a wedding chapel on her historic California ranch (known for its ancient oak tree), she attracts a variety of couples in search of unconventional nuptials--and two lost souls. Juniper McGuire, an angry teenage girl, is still reeling from the tragedy that put her into the foster care system. And a former crime scene photographer, Joseph Vigil, suffers chronic pain from an on-the-job accident. Together, the three grievers form a tentative support system that could--if they'll let it--be called love. As in her previous novels, Mapson seems most at ease describing the relationship between human and animal--especially dogs and horses--and in rendering the Western landscape. Her facility with dialogue, however, is less impressive, but most readers will be too involved in the sweep of loss and recovery to stumble for long over awkward talk. &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.
+ 
+ &lt;/div&gt;
+ &lt;h3&gt;From &lt;/h3&gt;
+ &lt;div&gt;
+ Newly widowed, Glory Solomon is barely holding on to her feelings or her finances when she begins hosting destination weddings in the rustic chapel her late husband built in the shade of their towering, historic white oak. On the day a pirate-themed ceremony takes place, however, Glory embarks on a bigger adventure than any saucy bride or her swashbuckling groom could imagine. Having raised foster sons in the past when Dan was alive, Glory finds herself totally unprepared for the tattooed, pierced, and ill-tempered 14-year-old girl who is put in her care. Juniper’s family fell apart when her older sister disappeared, and her raw emotions at being abandoned by her loved ones prove to be more than fragile Glory can handle. Fortunately, help arrives in the form of Joseph Virgil, a wounded ex-cop with significant emotional baggage of his own. With abundant compassion and soothing humor, three damaged souls are rescued in Mapson’s delicate tale of renewal and healing. --Carol Haggas
+ 
+ &lt;/div&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Bloomsbury Publishing USA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781608193301</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-31T16:26:41.798000+00:00" name="calibre:timestamp"/>
+        <meta content="Solomon's Oak: A Novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

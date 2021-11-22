@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5984</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fdee72cd-7719-4edc-ae52-176af277bed8</dc:identifier>
+        <dc:title>Spade &amp; Archer: the prequel to Dashiell Hammett's The maltese falcon</dc:title>
+        <dc:creator opf:file-as="Gores, Joe" opf:role="aut">Joe Gores</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-10T11:20:10.776000+00:00</dc:date>
+        <dc:description>SUMMARY:
+When Sam Spade gets drawn into the Maltese Falcon case, we know what to expect: straight talk, hard questions, no favors, and no way for anyone to get underneath the protective shell he wears like a second skin. We know that his late partner, Miles Archer, was a son of a bitch; that Spade is sleeping with Archer's wife, Iva; that his tomboyish secretary, Effie Perine, is the only innocent in his life. What we don't know is how Spade became who he is. "Spade &amp; Archer" completes the picture. 1921: Spade sets up his own agency in San Francisco and clients quickly start coming through the door. The next seven years will see him dealing with booze runners, waterfront thugs, stowaways, banking swindlers, gold smugglers, bumbling cops, and the illegitimate daughter of Sun Yat-sen; with murder, other men's mistresses, and long-missing money. He'll bring in Archer as a partner, though it was Archer who stole his girl while he was fighting in World War I. He'll tangle with a villain who never loses his desire to make Spade pay big for ruining what should've been the perfect crime. And he'll fall in love--though it won't turn out for the best. It never does with dames . . . "Spade &amp; Archer "is a gritty, pitch-perfect, hard-boiled novel--the work of a master mystery writer--destined to become a classic in its own right.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307264640</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-15T23:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Spade &amp; Archer: the prequel to Dashiell Hammett's The maltese falcon" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

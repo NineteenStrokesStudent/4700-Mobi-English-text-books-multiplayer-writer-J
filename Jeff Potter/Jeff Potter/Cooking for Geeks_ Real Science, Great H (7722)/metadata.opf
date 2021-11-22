@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7722</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f28f9e5d-fe92-4526-8305-c4852ff39952</dc:identifier>
+        <dc:title>Cooking for Geeks: Real Science, Great Hacks, and Good Food</dc:title>
+        <dc:creator opf:file-as="Potter, Jeff" opf:role="aut">Jeff Potter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-03T17:52:10.499000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Are you the innovative type, the cook who marches to a different drummer -- used to expressing your creativity instead of just following recipes? Are you interested in the science behind what happens to food while it's cooking? Do you want to learn what makes a recipe work so you can improvise and create your own unique dish?
+&lt;/p&gt;
+&lt;p&gt;More than just a cookbook, &lt;em&gt;Cooking for Geeks&lt;/em&gt; applies your curiosity to discovery, inspiration, and invention in the kitchen. Why is medium-rare steak so popular? Why do we bake some things at 350 F/175 C and others at 375 F/190 C? And how quickly does a pizza cook if we overclock an oven to 1,000 F/540 C? Author and cooking geek Jeff Potter provides the answers and offers a unique take on recipes -- from the sweet (a "mean" chocolate chip cookie) to the savory (duck confit sugo).
+&lt;/p&gt;
+&lt;p&gt;This book is an excellent and intriguing resource for anyone who wants to experiment with cooking, even if you don't consider yourself a geek.
+&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;
+     Initialize your kitchen and calibrate your tools 
+ &lt;/li&gt;
+
+ &lt;li&gt;
+     Learn about the important reactions in cooking, such as protein denaturation, Maillard reactions, and caramelization, and how they impact the foods we cook 
+ &lt;/li&gt;
+
+ &lt;li&gt;
+     Play with your food using hydrocolloids and sous vide cooking 
+ &lt;/li&gt;
+
+ &lt;li&gt;
+     Gain firsthand insights from interviews with researchers, food scientists, knife experts, chefs, writers, and more, including author Harold McGee, TV personality Adam Savage, chemist Hervé This, and xkcd 
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;From &lt;em&gt;Cooking for Geeks&lt;/em&gt;: Butternut Squash Soup&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Purée in a food processor or with an immersion blender:&lt;br /&gt;
+2 cups (660g) butternut squash, peeled, cubed, and roasted (about 1 medium squash)&lt;br /&gt;
+2 cups (470g) chicken, turkey, or vegetable stock&lt;br /&gt;
+1 small (130g) yellow onion, diced and sautéed&lt;br /&gt;
+1/2 teaspoon (1g) salt (adjust to taste)
+&lt;/p&gt;
+&lt;p&gt;Notes
+&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;
+     The weights are for the prepared ingredients and only rough suggestions. So, prepare each item individually. For example, for the squash, peel it, then coat it with olive oil, sprinkle it with salt, and roast it in the oven at a temperature around 400–425 F / 200–220 C until it begins to brown. When you go to purée the ingredients, hold back some of the squash and some of the stock, taste the purée, and see which you think it needs. Want it thicker? Add more squash. Thinner? Add more stock.
+ &lt;/li&gt;
+
+ &lt;li&gt;
+     This soup by itself is very basic. Garnish with whatever else you have on hand that you think might go well, such as garlic croutons and bacon. Or top with a small dab of cream, some toasted walnuts, and dried cranberries to give it a feeling of Thanksgiving. How about a teaspoon of maple syrup, a few thin slices of beef, and some fresh oregano? Chives, sour cream, and cheddar cheese? Why not! Instead of purchasing items to follow a recipe exactly, try using leftover ingredients from other meals to complement the squash soup.
+ &lt;/li&gt;
+
+ &lt;li&gt;
+     If you’re in a rush, you can “jump-start” the squash by microwaving it first. Peel and quarter the squash, using a spoon to scoop out the seeds. Then, cube it into 1–2” / 3–5 cm pieces, drop it into a glass baking pan that’s both oven and microwave safe, and nuke it for four to five minutes to partially heat the mass. Remove from microwave, coat the squash with olive oil and a light sprinkling of salt, and roast it in a preheated oven until done, about 20 to 30 minutes. If you’re not in a rush, you can skip the peeling step entirely: cut the squash in half, scoop out the seeds, add oil and salt, roast it for about an hour (until the flesh is soft), and use a spoon to scoop it out.
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Pumpkin Cake&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;There are two broad types of cake batters: high- ratio cakes--those that have more sugar and water than flour (or by some definitions, just a lot of sugar)--and low-ratio cakes—which tend to have coarser crumbs. For high-ratio cakes, there should be more sugar than flour (by weight) and more eggs than fats (again, by weight), and the liquid mass (eggs, milk, water) should be heavier than the sugar.
+&lt;/p&gt;
+&lt;p&gt;Consider this pumpkin cake, which is a high-ratio cake (245g of pumpkin contains 220g of water--you can look these sorts of things up in the USDA National Nutrient Database, available online at http://www.nal.usda.gov/fnic/foodcomp/search/).
+&lt;/p&gt;
+&lt;p&gt;In a mixing bowl, measure out and then mix with an electric mixer to thoroughly combine:&lt;br /&gt;
+1 cup (245g) pumpkin (canned, or roast and puree your own)&lt;br /&gt;
+1 cup (200g) sugar&lt;br /&gt;
+3/4 cup (160g) canola oil&lt;br /&gt;
+2 large (120g) eggs&lt;br /&gt;
+1 1/2 cups (180g) flour&lt;br /&gt;
+1/4 cup (40g) raisins &lt;br /&gt;
+2 teaspoons (5g) cinnamon &lt;br /&gt;
+1 teaspoon (5g) baking powder&lt;br /&gt;
+1/2 teaspoon (5g) baking soda&lt;br /&gt;
+1/2 teaspoon (3g) salt&lt;br /&gt;
+1/2 teaspoon (2g) vanilla extract
+&lt;/p&gt;
+&lt;p&gt;Transfer to a greased cake pan or spring form and bake in an oven preheated to 350 F / 175 C until a toothpick comes out dry, about 20 minutes.
+&lt;/p&gt;
+&lt;p&gt;Notes
+&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;
+     Try adding dried pears soaked in brandy. You can also hold back some of the raisins and sprinkle them on top.
+ &lt;/li&gt;
+
+ &lt;li&gt;
+     One nice thing about high-ratio cakes is that they don’t have much gluten, so they won’t turn out like bread, even with excessive beating. With a total weight of 920 grams, of which only roughly 20 grams is gluten, there just isn’t enough gluten present in this cake to give it a bread-like texture. There’s also a fair amount of both sugar and fats to interfere with gluten development.
+ &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Jeff Potter has done the cubicle thing, the startup thing, and the entrepreneur thing, and through it all maintained his sanity by cooking for friends. He studied computer science and visual art at Brown University.
+&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780596805883</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:35:19.674000+00:00" name="calibre:timestamp"/>
+        <meta content="Cooking for Geeks: Real Science, Great Hacks, and Good Food" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

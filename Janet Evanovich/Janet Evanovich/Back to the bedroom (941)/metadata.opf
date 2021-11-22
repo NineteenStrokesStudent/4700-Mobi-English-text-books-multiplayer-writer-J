@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">941</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39a59e74-8d08-4b21-8f42-38930b82595a</dc:identifier>
+        <dc:title>Back to the bedroom</dc:title>
+        <dc:creator opf:file-as="Evanovich, Janet" opf:role="aut">Janet Evanovich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-07T23:01:25.560000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Dear Reader:    
+
+In a previous life, before the time of Plum, I wrote twelve short romance novels. Red-hot screwball comedies, each and every one of them. Nine of these stories were originally published by the Loveswept line between the years 1988 and 1992. All immediately went out of print and could be found only at used bookstores and yard sales.    
+
+I'm excited to tell you that those nine stories are now being re-released by HarperCollins. Back to the Bedroom is presented here in almost original form. I've done only minor editing to correct some embarrassing bloopers missed the first time around.    
+
+I lived in northern Virginia when I wrote Back to the Bedroom. My children were young, and we spent a lot of time visiting the Washington, D.C. museums and wandering through the historic neighborhoods. One day while strolling Capitol Hill I came upon two townhouses that captured my imagination. The houses were totally different -- a birthday cake of a house and a bran muffin of a house, and yet they shared a common wall. I wondered about the people who lived inside the houses. And eventually the houses inspired Back to the Bedroom.    
+
+Back to the Bedroom is the story of a young woman with the soul of a birthday cake living in a bran muffin house -- and a nice-looking guy with the substance of a bran muffin living in a birthday cake. They share some misadventures, some romantic moments, some misunderstandings, and ultimately they turn into wedding cake.    
+
+And for Plum fans, you'll be interested to find that this was the first of the four romances to feature Elsie Hawkins, the prototype for Grandma Mazur.    
+
+Janet Evanovich</dc:description>
+        <dc:publisher>HarperTorch</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060598853</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="Elsie Hawkins Series" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-19T22:51:22.851000+00:00" name="calibre:timestamp"/>
+        <meta content="Back to the bedroom" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

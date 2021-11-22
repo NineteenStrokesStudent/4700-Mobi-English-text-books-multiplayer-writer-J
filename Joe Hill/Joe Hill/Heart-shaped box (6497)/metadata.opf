@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c7cb6cd-1319-4e01-b83c-e5ff6e57cdba</dc:identifier>
+        <dc:title>Heart-shaped box</dc:title>
+        <dc:creator opf:file-as="Joe Hill" opf:role="aut">Joe Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-13T06:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Judas Coyne is a collector of the macabre: a cookbook for cannibals . . . a used hangman's noose . . . a snuff film. An aging death-metal rock god, his taste for the unnatural is as widely known to his legions of fans as the notorious excesses of his youth. But nothing he possesses is as unlikely or as dreadful as his latest discovery, an item for sale on the Internet, a thing so terribly strange, Jude can't help but reach for his wallet.   
+
+*I will "sell" my stepfather's ghost to the highest bidder. . . .*  
+
+ For a thousand dollars, Jude will become the proud owner of a dead man's suit, said to be haunted by a restless spirit. He isn't afraid. He has spent a lifetime coping with ghosts—of an abusive father, of the lovers he callously abandoned, of the bandmates he betrayed. What's one more?  
+
+ But what UPS delivers to his door in a black heart-shaped box is no imaginary or metaphorical ghost, no benign conversation piece. It's the real thing.  
+
+ And suddenly the suit's previous owner is everywhere: behind the bedroom door . . . seated in Jude's restored vintage Mustang . . . standing outside his window . . . staring out from his widescreen TV. Waiting—with a gleaming razor blade on a chain dangling from one bony hand. . . .  
+
+ A multiple-award winner for his short fiction, author Joe Hill immediately vaults into the top echelon of dark fantasists with a blood-chilling roller-coaster ride of a novel, a masterwork brimming with relentless thrills and acid terror.</dc:description>
+        <dc:publisher>William Morrow</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-26T21:16:08.901000+00:00" name="calibre:timestamp"/>
+        <meta content="Heart-shaped box" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
